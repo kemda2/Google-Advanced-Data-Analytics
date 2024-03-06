@@ -247,3 +247,30 @@ _Today the world’s population is around 8 billion. The James Webb Space Telesc
 ## Key takeaways
 
 Data science and data analytics are distinct but connected fields that have developed over time in the evolving data career space. Organizations often use these terms interchangeably when hiring, so being able to recognize the similarities and differences between the two professions will help you identify opportunities that are aligned with your particular skill set. That’s why, throughout this course, you will learn more about the data career space as a whole and how data analytics professionals work within that space.
+
+<br> 
+
+*** 
+
+<br>
+
+
+# Glossary terms from module 1
+
+## **Terms and definitions from Course 1, Module 1**
+
+**Data professional**: Any individual who works with data and/or has data skills
+
+**Data science**: The discipline of making data useful
+
+**Data stewardship**: The practices of an organization that ensure that data is accessible, usable, and safe
+
+**Edge computing**: A way of distributing computational tasks over a bunch of nearby processors (i.e., computers) that is good for speed and resiliency and does not depend on a single source of computational power
+
+**Jupyter Notebook**: An open-source web application used to create and share documents that contain live code, equations, visualizations, and narrative text
+
+**Machine learning**: The use and development of algorithms and statistical models to teach computer systems to analyze patterns in data
+
+**Metrics**: Methods and criteria used to evaluate data
+
+**Python:** A general-purpose programming language
