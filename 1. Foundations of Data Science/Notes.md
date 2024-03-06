@@ -552,3 +552,77 @@ The ability to resolve problems is an important part of being a data analytics p
 
 Employers in a variety of industries are eager to hire data professionals who possess more than just technical expertise. You can highlight your non-technical abilities for potential employers in several ways. Discover ways to successfully and effectively communicate your passions. By demonstrating a commitment to professional growth and sharing examples of your ability to solve problems, you can set yourself apart from other candidates.
 
+<br> 
+
+*** 
+
+<br>
+
+# Volunteer data skills to make a positive impact 
+
+So far, you have been learning how data analytics professionals are making an impact in a variety of industries. You’ve also learned about nonprofit organizations, and how their efforts are making a difference for so many in need. By volunteering their expertise and time, data analytics professionals contribute to many projects that help nonprofits benefit communities all around the world. In this reading, you will learn more about how you can contribute to global efforts, including  your local community as a data professional.
+
+## Nonprofits
+
+People hoping to further a social cause, or provide a benefit to the public, often create nonprofit groups. The main mission of a nonprofit group is to fill a need or gap that the private sector is not addressing adequately. There are rewarding and inspiring opportunities for data professionals in the nonprofit sector. At the global level, groups like [Children International](https://www.children.org/), [Doctors Without Borders](https://www.doctorswithoutborders.org/), and [Care International](https://www.care-international.org/) lead humanitarian efforts across the globe. In addition to these large-scale efforts, there are many nonprofit organizations whose efforts are regionally specific, like [Christopher’s Promise](http://www.christopherspromise.org/) based in the Columbus, Ohio area.
+
+You can apply your data skills to help nonprofit groups become more effective, allowing them to anticipate and respond to their greatest areas of need. 
+
+You may already be aware of nonprofits that fit within your areas of interest or operate in your community. One way that these organizations compensate for their lack of resources is by finding volunteers. Often, regional or local organizations lack the resources to offer full time employment for marketing professionals or data analysts. As a data analytics professional there are many ways that you can make a valuable contribution to nonprofit organizations. In the event that you do not have a specific nonprofit organization in mind, you can research through [Charity Navigator](https://www.charitynavigator.org/), the largest and most trusted online nonprofit evaluation and rating tool in the world. Here you will find ratings on nearly 200,000 nonprofits.
+
+## An example of a community-based nonprofit organization
+
+[Christopher’s Promise](http://www.christopherspromise.org/home.html), a grass-roots nonprofit based in Columbus, Ohio, is a representative example of the types of community-based nonprofits that are making an impact all over the world. This organization was inspired by the efforts to create a bicycle for a fifteen-year old who faced the challenges of Neurofibromatosis, Cerebral Palsy, and Optic Glioma. Since 2011, this nonprofit has facilitated the design and construction of adaptive bicycles for hundreds of children, thanks to outstanding support from the local communities in the central Ohio area.
+
+Christopher’s Promise (2022) mission statement is  “To allow all kids, despite physical limitations, the ability to experience the same hallmark childhood memories as their peers. Helping kids, be kids.” 
+
+## Volunteering data skills to nonprofits
+
+As a data analytics professional, your skills can make a great impact on charity and nonprofit organizations within your own community or for a community whose needs resonate with you. Many nonprofits are highly dependent on volunteers for their activities due to limited resources. This situation is especially challenging for community-based initiatives that often lack the funding to hire data analytics professionals. Therefore, offering to volunteer with a local nonprofit is an excellent way to gain experience and support a cause. 
+
+### How can data analytics professionals help nonprofits?
+
+Data analytics professionals can help nonprofit organizations in a variety of ways. Below are a few examples.
+
+#### Fundraising
+
+Using data analytics, you can predict with high accuracy which prospects are most likely to donate. In order to maximize return on marketing and outreach expenses, nonprofit organizations can use data analysis to prioritize outreach and reduce overall marketing expenditures.
+
+#### Marketing
+
+There is valuable information in a nonprofit’s data that can benefit marketing efforts. Data analysis can help determine a nonprofit’s target audience and gather insights such as donation methods, contribution history, and other demographics. As a result, the nonprofit can help guide communication with potential donors and determine the effectiveness of campaigns.
+
+#### Monitoring activities
+
+Data analysis can help nonprofits monitor resources, expenses, and daily operational needs. A nonprofit will often need assistance in keeping track of donated materials. For example, a database of donations to a food bank could help the organization determine specific food items being collected and inventory the expiration dates of food items for shelving, cycling, and distribution. Using a system of real-time inventory in conjunction with predictive data analytics could anticipate shortages and identify those donors who have helped provide these items in the past.
+
+Data analytics has a lot to offer a nonprofit organization. Gaining deeper insight into the organization’s efforts can help them to operate in a more effective and efficient way. Analyzing data can improve various nonprofit functions, such as allocation of resources, recruiting and retaining supporters, fundraising, and conducting research. Data analysis also can help reveal patterns and power dynamics that can be used to inform decision-making. In addition to identifying individuals and communities in need of assistance, predictive modeling can also be used to identify potential recipients of a nonprofit's services.
+
+## More opportunities to volunteer
+
+There are organizations who are helping to pair data professionals with projects that are making a difference all around the world. 
+
+DataKind is a global nonprofit that harnesses the power of data science and artificial intelligence (“AI”) in the service of humanity. Using data analysis, this organization guides restorative efforts in underserved communities. DataKind brings together volunteer experts from academia and industry to design innovative solutions to tough social challenges. They help social organizations apply their data to predictive analytics, machine learning algorithms, and AI in a way that both increases impact and is sensitive to ethical considerations. Visit the [DataKind website](https://www.datakind.org/join-us/volunteer/) to find out more about their mission and how to become a volunteer.
+
+Another option for putting your data skills to good use are hackathons. A hackathon is an event where programmers and other data professionals come together and collaborate on a particular project. The goal is to create a solution to an existing problem. 
+
+There are many hackathon events scheduled across the world each year. These events can take place at a specific location or remotely across the globe. Hackathon events are commonly built around a central theme or question, such as tracking industrial emissions, promoting healthy food options, or how we can improve mental health for cancer patients. If you are interested in finding listings of current hackathons around the world, visit [Devpost.com](https://devpost.com/).
+
+## Key takeaways
+
+Donating your time to a nonprofit is a great way to gain experience, and it can be mutually beneficial for you and the nonprofit. The nonprofit benefits from your data analysis expertise, and you get valuable experience working with data that can be added to your professional portfolio.
+
+Working with a nonprofit organization or participating in a hackathon event introduces you to different types of projects, enhances interpersonal and communications skills, and adds to your professional list of contacts. No matter what your level of data analytics experience, working with nonprofits and hackathons can be a rewarding side project, or even a philanthropic career option.
+
+## Resources for more information
+
+- [Charity Navigator](https://www.charitynavigator.org/) is the world's largest and most trusted nonprofit evaluator.
+    
+- [DataKind](https://www.datakind.org/) helps social organizations identify their data and artificial intelligence opportunities, recruits and manages volunteers, and then sees the solutions are used.
+    
+- [Devpost](https://devpost.com/) is a place to build products, practice skills, learn technologies, sign up for competitions, and grow your network.
+    
+- [IRS.gov tax exempt organizations listing](https://www.irs.gov/charities-non-profits/search-for-tax-exempt-organizations) is a website to find charitable organizations throughout the United States.
+    
+- [Statistics without borders](https://www.statisticswithoutborders.org/) contributes to the common good by providing free statistical, data science, and analytical services.
+
