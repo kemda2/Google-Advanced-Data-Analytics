@@ -161,3 +161,89 @@ Providing feedback on videos, readings, and other materials is easy. With the re
 If you want to flag a specific issue with an item, click the flag icon, select a category, and enter an explanation in the text box. This feedback goes back to the course development team and isn’t visible to other learners. All feedback received helps to create even better certificate programs in the future. 
 
 For technical help, visit the [Learner Help Center](https://learner.coursera.help/hc/en-us).
+
+<br> 
+
+*** 
+
+<br>
+
+
+# Data discourse over the years
+
+You will encounter the terms “data science” and “data analytics” throughout this program. Although these disciplines can be quite different in their scope, industry professionals often use them interchangeably. It’s important to examine the similarities and differences between data science and data analytics to better understand the data career field and where your skills fit. In this reading, you’ll learn more about data science, data analytics, and how the data profession has evolved over time. 
+
+## What is data science vs. data analytics 
+
+Data science is an entire field dedicated to making data more useful. A data scientist is a professional that uses raw data to develop new ways to model data and understand the unknown. Often, their job responsibilities incorporate various components of computer science, predictive analytics, statistics, and machine learning. The collections of information that data scientists work with can be quite large, requiring expertise to organize and navigate. 
+
+Data analytics is a subfield of the larger data science discipline. The aim of data analytics is to create methods to capture, process, and organize data to uncover actionable insights for current problems. Analysts focus on processing the information stored in existing datasets and establishing the best way to present this data. Data analysts rely on statistics and data modeling to solve problems and offer recommendations that can lead to immediate improvements. 
+
+The following table presents a side-by-side comparison:
+
+|**Data science**|**Data analytics**|
+|---|---|
+|- Produces broad insights that concentrate on which questions should be asked about data|- Emphasizes discovering answers to questions being asked|
+|- Confronts what is unknown by using advanced techniques to make predictions about the future|- Determines actionable insights that can be applied immediately based on existing queries|
+
+## The connections between data science and data analytics
+
+Data science and data analytics share a fundamental goal: discover insights that can be used to lead an organization to improve and grow. They are closely connected with information gathered through interactions within the measurable world. As data projects become more complicated, organizations are discovering the advantages of assembling data teams, bringing data analysts and data scientists together. Within these highly-collaborative working environments, data scientists and data analysts work on common tasks using similar software packages, tools, and programming languages. Additionally, the responsibilities of data scientists and data analysts are impacted by a company’s resources, budgetary constraints, and other factors which vary depending on the organization and industry. The commonalities between data science and data analytics within the workplace explain why practitioners and industry professionals often use the two titles interchangeably. This has also extended to job postings. 
+
+## The data professional in the data career space
+
+This program uses a few terms when addressing data science and data analytics professionals. The term **data professional** is used when referring to data scientists and analysts collectively. **Data analytics professional** is used to highlight positions where the majority of tasks focus on data analytical processes. The **data career space** functions as an inclusive term referencing the spectrum of jobs and careers in data science and related areas. The intention for these descriptors is to serve as inclusive labels—enabling the broadest possible grouping of data science and data analytics related jobs and titles. 
+
+Career opportunities for data professionals span a wide range of industries. Each with their individualized needs, demands, and responsibilities. It’s possible for two employees with the same job title at two different organizations to have different roles and tasks. To help clarify how careers across data science and data analytics are described in this program, the data career space is used to collectively refer to the variety of careers and job opportunities available to those with data science skills.
+
+## The data career space over time
+
+So far, you’ve been considering how data science and data analytics work together in the data career space. This field has also been evolving and changing over time as technology, data storage, data analysis, and communication has changed. Progress in the field means that data professionals need to learn to adapt and evolve to build and define careers within this space—and understanding how the data career space has evolved so far can help you do just that. 
+
+### 1965
+
+_In 1965, the world’s population was 3.3 billion. The Mariner 4 spacecraft took the first close-up pictures of Mars. The first commercial communications satellite allowed nearly instantaneous contact between Europe and North America._
+
+|**Field**|**Summary**|
+|---|---|
+|**Technology**|Computations were still done by hand; companies were just starting to  invest in new computing technologies to assist analysts. The first desktop programmable calculators replaced room-sized computers. Users could backup complex mathematical operations onto magnetic cards and print the results.|
+|**Data storage**|Simple punch cards stored programming information. These cards would be loaded in a specific order to give commands. Businesses allocated physical space to store the thousands of data punch cards regular computer usage would generate. Larger organizations upgraded to magnetic tape reels that could hold the equivalent of 50,000 punch cards, or about 3 megabytes. But these reels still required a lot of storage space within an office.|
+|**Data analysis**|As computer technology reduced in size and cost, more companies began to pivot away from doing computation work by hand.|
+|**Communication**|Documentation and correspondence were transformed by the electric typewriter.Documents and messages were hand delivered within offices. New telephone systems allowed multiple incoming and outgoing lines, programmable buttons for saving phone numbers and intercom abilities for up to 30 extensions.|
+
+### 1985
+
+_In 1985, the world’s population was 4.8 billion. The internet’s domain name system was created. A hole in the ozone layer over Antarctica was discovered. DNA is first used in a criminal case._ 
+
+|**Field**|**Summary**|
+|---|---|
+|**Technology**|Phone lines become the superhighways of communication. By the 1980s, the scanning fax machine became a necessity for businesses, allowing them to quickly send and receive documents. Desktops were now small enough for users to have a personal computer. Windows 1.0 was released.|
+|**Data storage**|The floppy disk format replaced data punch cards, allowing 360 kilobytes of data storage. The average internal hard drive capacity was 10 megabytes.|
+|**Data analysis**|Data organization was revolutionized with the development of electronic spreadsheets. These programs first emulated traditional financial ledgers.|
+|**Communication**|Internal electronic messages or email were being used by government agencies, universities, and defense/military industries to communicate.|
+
+### 2005
+
+_In 2005, the world’s population was 6.5 billion. The first video was uploaded to YouTube. NASA’s Deep Impact space probe impacted a comet in motion._
+
+|**Field**|**Summary**|
+|---|---|
+|**Technology**|Dial-up connections are replaced with high-speed connectivity. Smart devices give an increasing number of people access to the internet, especially within urban areas. Businesses become aware of the usefulness of their collected user data.|
+|**Data storage**|Large-scale companies began digitizing and storing data within cloud services. Filing cabinets full of documentation were slowly being converted into data archives. Flash drives reached the market, offering a gigabyte of portable storage that could easily fit within a pocket.|
+|**Data analysis**|Companies employed data analysis and predictive modeling as primary business elements. Customer interaction yields datasets and data analysis opportunities, creating large repositories of unstructured data. Social media significantly elevated the need for tools, technologies, and analytics techniques to gather useful information from unstructured data.|
+|**Communication**|Inter-department collaboration, worldwide email, and instant messaging became available on smart devices.|
+
+### Today
+
+_Today the world’s population is around 8 billion. The James Webb Space Telescope is expanding our knowledge of the universe’s earliest moments._
+
+|**Field**|**Summary**|
+|---|---|
+|**Technology**|Augmented and virtual reality offer interactive experiences, enriched by computer-generated information. The Internet of Things (IoT) connects a growing number of devices and systems. Edge computing is becoming a common practice; it is a way of distributing computational tasks over many nearby processors (i.e., computers) that is good for speed and resiliency and does not depend on a single source of computational power.|
+|**Data storage**|Quantum computing, a type of computing that employs the collective properties of quantum mechanics, is being developed to increase processing and storage and solve problems that are too complex for classical computers. International efforts will continue to build quantum computing systems with the necessary cooling systems, user interfaces, networks, and storage capabilities.|
+|**Data analysis**|Artificial intelligence is helping to speed up the rate of innovation by augmenting human capabilities. This technology resides at the intersection between social and technological issues. Technological advances continue to be inspired by biological and psychological knowledge about how humans process and learn information.|
+|**Communication**|Virtual meetings and online messaging have become commonplace. Task management software is helping organizations facilitate the completion of projects, allowing workers across the globe to work asynchronously.|
+
+## Key takeaways
+
+Data science and data analytics are distinct but connected fields that have developed over time in the evolving data career space. Organizations often use these terms interchangeably when hiring, so being able to recognize the similarities and differences between the two professions will help you identify opportunities that are aligned with your particular skill set. That’s why, throughout this course, you will learn more about the data career space as a whole and how data analytics professionals work within that space.
