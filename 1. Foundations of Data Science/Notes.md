@@ -1,5 +1,7 @@
 # Google Advanced Data Analytics Certificate
 
+# Module 1 Introduction to data science concepts
+
 Hello, and welcome to the **Google Advanced Data Analytics Certificate**! The seven courses in this certificate program will advance your knowledge and help you grow in your career as a data analytics professional. A foundational background in data analytics is strongly encouraged.
 
 ## Enter a growing field
