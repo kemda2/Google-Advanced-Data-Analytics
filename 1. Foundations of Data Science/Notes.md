@@ -276,3 +276,6 @@ Data science and data analytics are distinct but connected fields that have deve
 **Metrics**: Methods and criteria used to evaluate data
 
 **Python:** A general-purpose programming language
+
+# Module 2 The impact of data today
+
