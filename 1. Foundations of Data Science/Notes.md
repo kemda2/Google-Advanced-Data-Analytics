@@ -975,3 +975,81 @@ In your work as a data professional, you might encounter the RACI matrix. It is 
 **Tableau**: A business intelligence and analytics platform that helps people visualize, understand, and make decisions with data
 
 # Module 3 Your career as a data professional
+
+# Current and future tools
+
+One of the greatest skills a data professional can have is learning how to apply their knowledge of one tool to another tool. Throughout your career, you might discover that different organizations you work for use different tools—and in the field of data science, new and emerging technologies mean that exciting new tools are being developed all the time. This means there will always be opportunities to expand your data science toolkit! In this reading, you will learn more about tools today, including some of the tools you’re going to learn about in this program. You will also explore some of the exciting ways tools are evolving and what that might mean for your toolkit in the future. Finally, you will explore a demonstration that illustrates how you’ll be using some of these tools in the very near future.
+
+## Tools today
+
+In this certificate program, you will have the opportunity to learn about many common tools data professionals use every day: spreadsheets, databases, query languages, data visualization, programming languages, and dashboards. Understanding the current tool landscape—and how it’s changing—will help you continue to grow your data science skills throughout your career. And understanding how the skills you learn for one tool can be applied to another means that you can adapt and add more tools to your toolkit!
+
+|**Tool**|**Definition**|**Examples**|**Transferable skills**|
+|---|---|---|---|
+|Spreadsheets|A digital worksheet where data can be manipulated and used for calculations|- Google Sheets<br>    <br>- Microsoft Excel|- Data entry<br>    <br>- Mathematical calculations<br>    <br>- Manage datasets<br>    <br>- Task automation<br>    <br>- Data manipulation<br>    <br>- Data analysis|
+|Databases|A collection of data stored in a computer system|- Google Cloud<br>    <br>- CloudSQL<br>    <br>- Oracle<br>    <br>- Microsoft SQL Server|- Database design<br>    <br>- Data storage management<br>    <br>- Data integrity|
+|Programming languages|A system of words and symbols used to write instructions that computers follow|- SQL<br>    <br>- R<br>    <br>- Python<br>    <br>- Java<br>    <br>- C++|- Communicate with computer systems<br>    <br>- Write and input commands<br>    <br>- Manage datasets<br>    <br>- Data manipulation<br>    <br>- Data analysis|
+|Data visualization|The graphical representation of data|- Tableau<br>    <br>- Matplotlib<br>    <br>- Seaborn <br>    <br>- Google Charts<br>    <br>- InfoGram<br>    <br>- ChartBlocks|- Communicate data insights<br>    <br>- Design compelling visuals<br>    <br>- Identify key metrics|
+|Dashboards|A tool that monitors live, incoming data|- Tableau<br>    <br>- LookerStudio<br>    <br>- Microsoft PowerBI|- Communicate data insights<br>    <br>- Monitor real-time data<br>    <br>- Develop data visualizations<br>    <br>- Design filters and custom calculations|
+
+Already, there are so many tools to choose from as a data professional. This certificate program will focus primarily on Python and data visualizations. As you progress in your career, you might find yourself learning new tools, and using your existing skills in new ways. Being able to recognize where tool skills overlap will help you continuously grow your data toolkit now and in the future. 
+
+## You in the near future
+
+So far in this reading, you have been considering how the skills you’re going to learn in this certificate program will help you use even more tools in the future. As you prepare for your learning journey, you can also think about how you’ll be able to apply these skills soon—not just in the distant future. 
+
+This certificate program focuses on some of the most commonly used tools for data analytics and machine learning with Python. More specifically, you will use: 
+
+- NumPy and pandas for data processing and manipulation
+    
+- matplotlib.pyplot, seaborn, and Tableau for visualizations
+    
+- statsmodels for statistical tests and regression modeling
+    
+- scikit-learn for building machine learning models
+    
+
+Next, consider the following overview of some of the tools you’ll use to complete tasks in this certificate program.
+
+You’ll use pandas to view and manipulate tabular data with Python. In the following example, a comma-separated value (.csv) file is read into a pandas dataframe, of which the first five rows are displayed. A dataframe is basically a table used to organize data. This data is from the [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand). It contains the count of public bicycles rented per hour in the Seoul Bike Sharing System, with corresponding weather data and holiday information.
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/c2edbbc2-57cf-48cd-8799-7c8f9da58fcc)
+
+You’ll use NumPy and pandas to perform calculations and get statistics for your data.
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/0f0839e6-132b-46c0-829b-11fb90ba92a9)
+
+You’ll use Tableau, matplotlib.pyplot, and seaborn to create data visualizations.
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/19c6c05c-4060-4db3-81fd-8a08878001af)
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/4f376cba-3ed1-4fca-b0c3-4deb3b4ed267)
+
+You’ll use statsmodels to practice statistical analysis and linear regression.
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/765f02d7-6f53-46e1-9ff6-09ceda8f578f)
+
+And you’ll use scikit-learn to build and analyze machine learning models:
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/3a5629d8-db49-47ce-9e72-9d615bb2a7b5) 
+
+
+This is just a small sample of the full range of topics you’ll learn about in this certificate. As you gain proficiency with these tools, you’ll be equipped to take on nearly any data task. 
+
+## Tools tomorrow and beyond
+
+The world of data science is always growing and evolving—tools you might not have even known about a few years ago can quickly become necessary for professionals working in the field. As you consider the skills you are developing now, it can be useful to consider all the ways you might also use them in the future. 
+
+### Artificial intelligence
+
+Artificial intelligence, or AI, refers to computer systems that are able to perform tasks that normally require human intelligence. One of the great benefits of using AI for data science is that it can help provide real-time insights to stakeholders. For example, a business with an e-commerce website might use AI to monitor and deliver insights about how customers use their website in real-time, allowing the team to make quick improvements. 
+
+### Machine learning
+
+Machine learning is the use and development of algorithms and statistical models to teach computer systems to analyze and discover patterns in data. Data analysts can train algorithms to analyze large amounts of data that would otherwise take a long time to process. For example, a financial analyst might use machine learning to find patterns in the data that help identify fraud. 
+
+One of the most exciting developments in these future technologies is the way they can be used together to automate tasks and provide insights faster than ever.
+
+## Key takeaways
+
+As a data professional, you will continue learning new skills and applying your current skills in new ways throughout your career. Recognizing how skills can be transferable allows you to adapt to different organizations’ needs and evolving technologies. And as you progress through this, you add tools to your data science toolbox that will help you now and in the future!
