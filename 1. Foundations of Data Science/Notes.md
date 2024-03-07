@@ -1053,3 +1053,118 @@ One of the most exciting developments in these future technologies is the way th
 ## Key takeaways
 
 As a data professional, you will continue learning new skills and applying your current skills in new ways throughout your career. Recognizing how skills can be transferable allows you to adapt to different organizations’ needs and evolving technologies. And as you progress through this, you add tools to your data science toolbox that will help you now and in the future!
+
+<br> 
+
+*** 
+
+<br>
+
+# How data professionals use AI
+
+Earlier, you briefly considered the role of artificial intelligence in data science. You may recall that **artificial intelligence (AI)** refers to the development of computer systems able to perform tasks that normally require human intelligence. For example, practical applications of AI include voice assistants, autonomous vehicles, automated recommendation systems, and more.
+
+In this reading, you will learn more about the uses of AI for data work, and how AI can help data professionals better understand their data and make more informed decisions. You’ll also learn about the limitations of AI, and the differences between AI and human data professionals. 
+
+## The uses of AI for data work
+
+Data professionals can use AI to improve their data analysis, perform essential tasks, and streamline their workflow. For example, data professionals can use AI to:
+
+- Create predictive models to help accurately forecast future events or outcomes. 
+    
+- Automate time-consuming tasks such as data cleaning, coding, and report writing. 
+    
+- Analyze extremely large datasets. 
+    
+- Improve the quality of data by identifying and correcting errors. 
+    
+- Generate insights from data that would not be obvious to humans. 
+    
+- Provide guidance on tasks such as choosing the right algorithms and interpreting results. 
+    
+- Facilitate collaboration among team members. 
+    
+
+Data professionals can leverage AI to enhance the quality and efficiency of their data projects, generate valuable insights, and help stakeholders make better business decisions. 
+
+### **Conversational AI tools: Gemini and ChatGPT**
+
+Many data professionals now use conversational AI tools to help them analyze their data and boost their productivity. Two of the most frequently used tools are Gemini and ChatGPT.  Gemini was created by Google AI. ChatGPT, also known as Chat Generative Pre-trained Transformer, was developed by OpenAI. 
+
+Gemini and ChatGPT are both **large language models (LLMs)** that are trained on massive datasets of text and code. An LLM is a type of AI algorithm that uses deep learning techniques to identify patterns in text and map how different words and phrases relate to each other. This allows LLMs to predict what word should come next. LLMs can generate human-like text in response to a wide range of prompts and questions. 
+
+**Note**: This is a general introduction to LLMs. A detailed discussion of the development and computational logic of LLMs is beyond the scope of this course. 
+
+Tools like Gemini and ChatGPT can help data professionals in a variety of ways. A data professional might ask Gemini or ChatGPT to: 
+
+- Clean a dataset by removing missing values, outliers, and duplicate data.
+    
+- Create interactive data visualizations such as dashboards and heatmaps. 
+    
+- Recommend a specific algorithm for a particular task based on the data professional's input.
+    
+- Create a shared document to facilitate a brainstorming session among a team of data professionals. 
+    
+
+**Note**: This is a brief list of possible prompts. In another activity, you’ll get a chance to further explore Gemini and discover its capabilities. 
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/2c6e5c46-69bf-4f92-98c1-bfc8bf64ab90)
+## Use cases for AI
+
+Data professionals across industries use AI to help analyze data and generate insights for stakeholders. Here are some examples of how data professionals use AI in specific sectors:
+
+### Finance
+
+- Analyze financial transactions to help prevent fraud and protect customers' money.
+    
+- Analyze large datasets of financial data to help identify potential risks and make more informed decisions about investments.
+    
+- Analyze historical market data and current market conditions to help generate sound investment recommendations. 
+    
+
+### Retail
+
+- Recommend products to customers based on their past purchase history and browsing behavior. 
+    
+- Track customers' interactions with the retail website to help personalize the shopping experience. 
+    
+- Analyze sales data and forecast future demand to help optimize the amount of product inventory and reduce costs. 
+    
+
+### Manufacturing  
+
+- Automate tasks such as welding, painting, and assembly to help improve efficiency.
+    
+- Analyze data from sensors and cameras to help identify defects in products before they are shipped to customers. 
+    
+- Analyze data from production lines to help identify ways to produce more products at a lower cost.
+    
+
+## AI and human data professionals 
+
+Data professionals use AI as a tool to help them understand data, make better decisions, and improve efficiency. Like all tools, AI has limitations. Human data professionals possess skills, abilities, and qualities that AI currently lacks. For example: 
+
+- _Intuition_. AI models are trained on data, and they can only make decisions based on the patterns they observe in the data. Humans can use their intuition and personal experience to make decisions that are not explicitly programmed into the AI model. For this reason, it’s important to always verify a model’s output before relying on it.
+    
+- _Deal with ambiguity._ AI models are good at solving problems that are well-defined and have clear parameters. However, humans can identify and understand complex problems that are not well-defined and have ambiguous parameters by considering key details offered in the context of the project.
+    
+- _Interpersonal communication_. AI models can generate reports and presentations, but they cannot communicate with stakeholders in the nuanced way that humans can. Humans can explain the results of their analysis to fit the needs of specific stakeholders, and use their emotional intelligence to address concerns. 
+    
+- _Creativity_. AI models are good at following instructions, but they are not imaginative like humans. Humans can be creative in their approach to data analysis, and imagine new and innovative solutions to complex problems.
+    
+- _Critical thinking_. Humans can think critically about their data and identify potential biases and ethical issues. AI models are usually trained on real-world data that contains biases and are therefore likely to reflect those biases in model outputs. 
+    
+- _Leadership_. Humans can be leaders, and they can motivate and inspire others. AI may have difficulty understanding the nuances of human emotion, motivation, and communication. This limits AI’s ability to effectively run an organization.
+    
+- _Factuality._ Generative AI models are trained to output text based on patterns in language. Sometimes the model output may be very well-composed and as a result, seem reliable, but may not be factual. As noted above, it’s important to always verify model output.
+    
+
+In the future, product and research teams may develop updates for AI that enlarge its current capabilities. However, human data professionals will continue to play an important role in data science by using their intuition, imagination, and unique experience to solve complex problems. 
+
+## Key takeaways
+
+Data professionals can use AI to help automate tasks, make predictions, generate insights, and communicate findings. They can leverage AI to be more productive in their work and more impactful in their organizations. Overall, AI is a powerful tool for data professionals but it is not without limitations. For this reason, human oversight and intervention is critical when working with AI and related tools. 
+
+## Additional Resources
+
+For more information, check out Google's approach towards [building responsible AI](https://ai.google/responsibility/ "Google - Building responsible AI for everyone").  
