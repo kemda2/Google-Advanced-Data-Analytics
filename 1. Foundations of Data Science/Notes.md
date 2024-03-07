@@ -1168,3 +1168,67 @@ Data professionals can use AI to help automate tasks, make predictions, generate
 ## Additional Resources
 
 For more information, check out Google's approach towards [building responsible AI](https://ai.google/responsibility/ "Google - Building responsible AI for everyone").  
+
+<br> 
+
+*** 
+
+<br>
+
+# The places you’ll go… 
+
+By now you’re familiar with many of the tools data professionals use to overcome different challenges in their work. However, as important as these technical skills are for your professional development, creating engaging presentations of your work is just as important. As you complete this certificate program, you’ll create a portfolio of projects that you can showcase to employers, other learners, or to broader audiences. In this reading you’ll find examples of the many ways other data professionals in the field have shared their work, so that you can learn what such presentations entail, get a sense of what appeals to you, and perhaps even inspire you in your own journey.
+
+## **Tableau dashboards**
+
+Bill Yost is a data analyst. One way he leverages his data professional skills is by building interactive data visualization dashboards on Tableau. His [project on office supply store analytics](https://public.tableau.com/app/profile/bill.yost/viz/SuperstoreELVTR/SuperstoreDashboard) is a great example of the dynamic capabilities Tableau offers data professionals. 
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/423a8e76-97b2-4791-bc70-d2dbca5a7e4d)
+
+His  dashboard incorporates several different types of interactive graphs, including a bar chart, a line chart, and a map. You’ll learn how to create these in this certificate program.
+
+Tableau also allows you to create a profile to showcase your work. You can also follow other users and add projects that interest you to a list of favorites. 
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/871dcf58-e6c7-4f94-bca4-b293982d261d)
+
+Tableau is a great platform if you want to feature polished visualizations and demonstrate your ability to communicate results in an engaging and elegant way. 
+
+## **Notebooks on Kaggle**
+
+If you prefer to compose a more technical exposition of your work, Kaggle is a great place to do it. For example, consider [Jesse Mostipak’s profile](https://www.kaggle.com/jessemostipak). Jesse is a data professional who uses Kaggle to contribute coding exemplars and datasets, participate in modeling competitions, and converse with others in the data community. 
+
+The following is an example of a notebook she submitted as a tutorial on using XGBoost in tidymodels, which is a collection of R packages for modeling and machine learning. You’ll learn how to use XGBoost with Python later in this certificate program.
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/675ae084-bc22-4361-987f-3959868eeaa3)
+
+In addition to supporting your public presence as a data practitioner, publishing your work this way is a great opportunity to generate discussion of different approaches and methodologies with peers in the data community and to learn new skills. 
+
+## **GitHub repositories**
+
+Another way to feature your work is by using GitHub. GitHub is probably best known for being a version control system used by coders and developers worldwide to keep track of projects involving large codebases with many simultaneous contributors. GitHub also offers tools to create and customize user profiles and project repositories. Take [Ravin Kumar’s GitHub page](https://github.com/canyon289) for example. 
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/dd6a6ec0-9181-4fe8-99c9-314b15f7452d)
+
+Some advantages of GitHub include the ability to structure your projects into repositories, which are like folders that are accessible to other people via Git. Repositories can include Jupyter notebooks, computer programs, images and figures, and markdown exposition. You’ll work extensively with Jupyter notebooks and markdown text throughout this certificate program. GitHub also lets you watch, star, and follow users or individual projects. The platform is particularly useful for sharing code directly with other people and even working collaboratively with them on projects. 
+
+## **Blogs on Medium**
+
+Jupyter notebooks and coding exhibitions aren’t the only means by which you can demonstrate expertise. Blog posts are another great way to propel your professional development. One of the advantages of blogs is that they showcase a wide range of highly sought-after skills beyond just technical proficiency. For example, not only will a well-written blog post convey your understanding of data concepts, tools, and techniques, but it will also emphasize your critical thinking, communication, and writing skills. These types of skills are what distinguish the best data professionals in the field. 
+
+Medium is a great platform to post data science-related blogs. You can also submit to publishers of curated data science content, such as Towards Data Science, Analytics Vidhya, and KDNuggets. As an example, consider the following [article written by Cassie Kozykov](https://towardsdatascience.com/how-to-work-with-someone-elses-data-f33485d79ed4) (the instructor of this course) that was published on Towards Data Science.
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/a3130128-68f8-48ce-a549-7af70cdb3361)
+
+This post isn’t about coding or complex computer science or mathematics at all! It’s a practical guide for avoiding pitfalls when working with third-party data. Such topics are highly relevant, and writing about them is another great way to access exciting career opportunities.
+
+## **Other approaches**
+
+This list isn’t exhaustive. It’s intended to give you an idea of the possibilities for presenting your work and becoming an active participant in the field. Some people share Jupyter notebooks, others write helpful articles, and others create podcasts or YouTube videos. For example, consider [this YouTube video on bias in machine learning and AI, produced by Angelica Spratley](https://www.youtube.com/watch?v=J2gTrr0SKuI), a data scientist and educator. 
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/326d0253-d57e-4022-afb5-b7b51b8bc55a)
+
+By the way, bias is something you’ll learn about in the course on machine learning. Find what excites you, and your enthusiasm will be evident. The possibilities are vast if you follow your imagination and motivation to contribute to the exciting world of data.
+
+## **Key Takeaways**
+
+These are just a few ways you can share your work. One of the great things about doing so is that it gives you a public-facing profile that employers can review. If someone searches for your name and finds an impressive portfolio, it gives you more opportunity to stand out. Additionally, presenting your work forces you to clearly explain (and thus understand) your methodologies, making you a stronger data practitioner. Whichever way you choose to share your work, be creative, have fun, and don’t be afraid to put yourself out there. This is your opportunity to impress!
