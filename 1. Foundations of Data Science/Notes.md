@@ -857,3 +857,57 @@ Broadening the scope of an organization takes time and consistency of results. T
 ## Key takeaways
 
 Organizations carefully consider the individuals they bring into their organization and seek candidates that embody qualities that go beyond data skills. Additionally, companies can influence their adaptability by hiring data professionals that embody the spirit of lifelong learning, effective communication, interpersonal skills, and the ability to solve problems.
+
+<br> 
+
+*** 
+
+<br>
+
+# Activity Exemplar: Organize your data team
+
+Here is a completed exemplar along with an explanation of how the exemplar fulfills the expectations for the activity. 
+
+_**Note:**_ _The exemplar represents one possible way to complete the RACI matrix. Different groups, organizations, or teams will have their own unique way of assigning roles and responsibilities to team members; these assignments may fluctuate from project to project or depending on other business variables._
+
+## Completed Exemplar
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/ESv5eiHzSM62d3cq8m6YYQ_55f50fedbd0147f69a5c5f4c7d2c42f1_image.png?expiry=1709942400000&hmac=XWhvF5gOlJjiTBvi78dN93pYOx2hIETXpAZcRZOM4b8)
+
+To review the exemplar for this course item, click the following link and select _Use Template_. 
+
+Link to exemplar: [](https://docs.google.com/spreadsheets/d/1xsUJeRBDkoGuwrLMSQ1R2FEnlHnlfNzCkRLKkLTjSWw/copy)[RACI Matrix Exemplar](https://docs.google.com/document/d/1JktfnpgTj6e4gnETsJGSeDf6mFNIBgvAaIQXEirf6eQ/template/preview)
+
+OR
+
+If you don’t have a Google account, you can download the exemplar directly from the following attachment.
+
+[](https://d3c33hcgiwev3.cloudfront.net/3-34WzQgStuaJ428vCshCQ_e5c610fa07df4b2ab614c445b4fa4bf1_Activity-Exemplar_-RACI-Matrix.docx?Expires=1709942400&Signature=NpYZGyC0VDKLbAVPdLiG-bOnh8RTd7stoKColbotPUC~f8JsPXX17lDeLIzwVCAoVrCrtGcU-cNecXEvnsvPqpl1B~zN5tWgjmI7~zsgfO1NT0YYC8TauOBE9JrbwzsLwOeC1XDhv4V1OZimH7uTRg5oJSfQFLx8jUvKo7mpQuE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+## Assessment of Exemplar
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/ksJ1X77xQCSYEb_hVhOX9A_39d267d55fac4df5a6e689e31f7876f1_image.png?expiry=1709942400000&hmac=Tl6x7uGMrjTpt2Kx6GHpVcjIT8i_vHf95SvcT6iJ32w)
+
+Compare the exemplar to your completed activity. Review your work using each of the criteria in the exemplar. What did you do well? Where can you improve? Use your answers to these questions to guide you as you continue to progress through the course. 
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/4m_XRrrmRiCxSqaG-n8wcQ_4618f93cb1f74046b7212b4f7d5249f1_image.png?expiry=1709942400000&hmac=a9ENUX_ejAI65htgOuWWVlecO2vjsIeQMfgEFEqm6cw)
+
+### **RACI matrix #1:**
+
+- **Access to data:** Based on their general roles within an organization, the business intelligence engineer, analytics team manager, and data engineer have all been identified as responsible for providing access to the data. The data scientist, who is more responsible for working with the analytics team to draw insights from the data, is just consulted. 
+    
+- **Create models to analyze data**: The data scientist, who is primarily concerned with drawing insights from the data, is responsible for this task. The business intelligence engineer and analytics team manager are consulted. The data engineer, who is concerned with infrastructure, is kept informed. 
+    
+- **Drive insights and recommendations based on data**: Similarly to the previous task, the data scientist is the primary team member responsible for this task. 
+    
+
+### **RACI matrix #2:** 
+
+- **Ensure data compliance**: Data compliance is part of developing and managing databases, which is the responsibility of the data engineer. Other team members are consulted or informed, but the data engineer is tasked with the actual responsibility of ensuring compliance.
+    
+- **Chief data officer**: Although all of the tasks in this project are the direct responsibility of other team members, the company’s chief data officer is accountable for them—meaning this role has the ultimate responsibility for ensuring this task is completed. 
+    
+
+## Key Takeaways
+
+In your work as a data professional, you might encounter the RACI matrix. It is a tool that many organizations use to structure their projects. It also helps to outline, communicate, and understand the responsibilities of data analytics professionals and other cross-functional team members. As a data professional, RACI can also help you consider how to structure your communication with other team members about a project. Understanding how data teams are organized will set you up for better collaboration with your future colleagues!
