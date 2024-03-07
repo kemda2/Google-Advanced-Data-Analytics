@@ -973,3 +973,5 @@ In your work as a data professional, you might encounter the RACI matrix. It is 
 ## T
 
 **Tableau**: A business intelligence and analytics platform that helps people visualize, understand, and make decisions with data
+
+# Module 3 Your career as a data professional
