@@ -1503,3 +1503,5 @@ The interview is an opportunity to share how you can add value to an organizatio
 ## T
 
 **Tableau**: A business intelligence and analytics platform that helps people visualize, understand, and make decisions with data
+
+# Module 4 Data applications and workflow
