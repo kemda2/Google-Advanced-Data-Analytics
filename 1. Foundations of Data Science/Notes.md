@@ -1232,3 +1232,63 @@ By the way, bias is something you’ll learn about in the course on machine lear
 ## **Key Takeaways**
 
 These are just a few ways you can share your work. One of the great things about doing so is that it gives you a public-facing profile that employers can review. If someone searches for your name and finds an impressive portfolio, it gives you more opportunity to stand out. Additionally, presenting your work forces you to clearly explain (and thus understand) your methodologies, making you a stronger data practitioner. Whichever way you choose to share your work, be creative, have fun, and don’t be afraid to put yourself out there. This is your opportunity to impress!
+
+<br> 
+
+*** 
+
+<br>
+
+# Make the most out of mentorships
+
+As you have been learning, professional relationships can help you find job opportunities. Exploring job boards and online resources is only one part of your job search process; it is just as important to connect with other professionals in your field, build your network, and interact with the data science community. A great way to achieve these goals is by building a relationship with a mentor. In this reading, you will learn more about mentors, the benefits of mentorship, and how to connect with potential mentors. 
+
+## Considering mentorship
+
+Mentors are professionals who share knowledge, skills, and experiences to help you grow and develop. They can offer guidance at different points in your career. Mentors can be advisors, sounding boards, honest critics, resources, and more. You can even have multiple mentors to gain more diverse perspectives! 
+
+There are a few things to consider along the way:
+
+- **Decide what you are searching for in a mentor.** Think about your strengths and weaknesses, what challenges you have encountered, and how you would like to grow as a data professional. Share these ideas with potential mentors who might have had similar experiences and have guidance to share.
+    
+- **Consider common interests.** Often you can find great mentorships with people who share interests and backgrounds with you. This could include someone who had a similar career path or even someone from your hometown. 
+    
+- **Respect their time**. Often, mentors are busy! Make sure the person you are asking to mentor you has time to support your growth. It’s also important for you to put in the effort necessary to maintain the relationship and stay connected with them.
+    
+
+Note that mentors don't have to be directly related to data science. Mentors can be friends of friends, more experienced coworkers, former colleagues, or even teammates. For example, if you find a family friend who has a lot of experience in their own non-data field, but shares a similar background as you and understands what you're trying to achieve, that person may become an invaluable mentor to you. Or, you might happen to meet someone at a casual work outing or a professional conference or meetup with whom you develop an instant connection over shared interests or hobbies. 
+
+No one mentor may be able (or willing) to advise in all areas, so think about the skills, insights, or values you appreciate in that individual. Then, build a network of individuals that you may approach with different questions about different topics (job searches, public speaking, technical topics, different industries, etc.).
+
+## Build the relationship
+
+Once you have considered what you’re looking for in a mentor and found someone with time and experience to share, you’ll need to build that relationship. Sometimes, the connection happens naturally, but usually, you need to formally ask them to mentor you. 
+
+One great way to reach out is with a friendly email or a message on a professional networking website. Describe your career goals, explain how you think those goals align with their own experiences, and talk about something you admire about them professionally. Then you can suggest a coffee chat, virtual meetup, or email exchange as a first step.
+
+Be sure to check in with yourself. It’s important that you feel like it is a natural fit and that you’re getting the mentorship you need. Mentor-mentee relationships are equal partnerships, so the more honest you are with them, the more they can help you. Most importantly, remember to thank them for their time and effort!
+
+As you get in touch with potential mentors, you might feel nervous about being a bother or taking up too much of their time. But, mentorship is meaningful for mentors too. They often genuinely want to help you succeed and are invested in your growth. Your success brings them joy! Many mentors enjoy recounting their experiences and sharing their successes with you as well. Mentors often learn a lot from their mentees. Both sides of the mentoring relationship are meaningful!
+
+## Resources
+
+There are a lot of great resources you can use to help you connect with potential mentors. Here are just a few:
+
+- **Meetups** are meetings that are usually local to your geography. Enter a search for “data science meetups near me” to check out what results you get. There is usually a posted schedule for upcoming meetings. Find out more information about [meetups happening around the world](https://www.meetup.com/find/?keywords=data%20science&source=EVENTS). 
+    
+- **Platforms** including LinkedIn® and Twitter are a great way to reach out to other professionals. Use a search on either platform to find data science or data analysis hashtags to follow. Post your own questions or articles to generate responses and build connections that way. 
+    
+- **Webinars** may showcase a panel of speakers and are usually recorded for convenient access and playback. You can see who is on a webinar panel and follow them too. Plus, a lot of webinars are free. One interesting pick is the [Tableau on Tableau webinar series](https://www.tableau.com/learn/series/how-we-do-data). Find out how Tableau has used Tableau in its internal departments. There are also a number of other data science related webinars available at [Brighttalk.com](https://www.brighttalk.com/topic/data-science/)
+    
+- **Conferences** present innovative ideas and topics. The cost varies, and some are expensive. But, many offer discounts to students, and some conferences like [Women in Analytics](https://womeninanalytics.com/about/) aim to increase the number of under-represented groups in the field. 
+    
+- **Associations** or **societies** gather members to promote a field such as data analytics. Many memberships are free. The [Association of Data Scientists](https://www.adasci.org/) is just one example. The [Cape Fear Community College Library](https://libguides.cfcc.edu/c.php?g=604688&p=4191138) also has a list of professional associations for analytics, business intelligence, and business analysis.
+    
+- **User communities** and **summits** offer events for users of professional tools; this is a chance to learn from the best. Have you explored the [Tableau](https://community.tableau.com/s/) or [Python](https://www.python.org/community/) communities?
+    
+- **Non-profit organizations** that promote the ethical use of data science often offer events for the professional advancement of their members. The [Data Science Association](https://www.datascienceassn.org/) is one example. 
+    
+
+## Key takeaways
+
+Finding and connecting with a mentor is a great way to build your network, access career opportunities, and learn from someone who has already experienced some of the challenges you’re facing in your career. Whether your mentor is a senior coworker, someone you connect with on LinkedIn®, or someone from home on a similar career path, mentorship can bring you great benefits as a data analytics professional.
