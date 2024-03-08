@@ -3286,3 +3286,123 @@ With this end-of-course project, you will gain valuable practice and apply your 
 
 ---
 The Google Advanced Data Analytics Certificate end-of-course project is designed for you to practice and apply course skills in a fictional workplace scenario. By completing each course’s end-of-course project, you will have work examples that will enhance your portfolio and showcase your skills for future employers.
+
+<br> 
+
+*** 
+
+<br>
+
+# Activity: Create your Course 1 Waze project 
+
+Practice Quiz. • 30 min. • 1 total point available.1 total point
+
+English
+
+To pass this practice quiz, you must receive 100%, or 1 out of 1 point, by completing the following activity. You can learn more about the graded and practice items in the [course overview](https://www.coursera.org/learn/foundations-of-data-science/supplement/AFT8j/course-1-overview).
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/93yPu3_SQIK9D_l8zVa-mQ_fcff564b678545b7a24d743008c234f1_image.png?expiry=1710028800000&hmac=w0Hj8LTp25Xy6T4Xgipg_CF28U-GjA4bOwygW01gSpg)
+
+## Activity Overview
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/TZXdt1wXTWGBj0nGODvfBg_b52abe04d2da4038b68e7c8ce57d54f1_image.png?expiry=1710028800000&hmac=f3ilSaoMlhSmnw_2Srtzvyx4OAy8DZT7WdJvL-a4FLk)
+
+In this activity, you will demonstrate your understanding of an effective data science workflow by completing a project proposal, intended to communicate information about project tasks and milestones with your team. You have previously learned about a tool that can help you complete project planning and development—the PACE strategy document. You will use the PACE strategy document to guide you through the process of creating a project proposal. 
+
+For additional information on how to complete this activity, review the previous readings: [_End-of-course project introduction_](https://www.coursera.org/learn/foundations-of-data-science/supplement/9Opfe/end-of-course-portfolio-project-introduction) and [_Course 1 end-of-course portfolio project overview: Waze_](https://www.coursera.org/learn/foundations-of-data-science/supplement/vsuvL/course-1-end-of-course-portfolio-project-overview-waze).
+
+Be sure to complete this activity before moving on. The next course item will provide you with completed exemplars to compare to your own work. You will not be able to access the exemplars until you have completed this activity. 
+
+## Scenario
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/aTcnAOFfQB6xI5TY_giRPQ_22a0f33b398e453d98e886f1dcdf1bf1_image.png?expiry=1710028800000&hmac=Ke_33Xi7pSmkjoM9qzod4kUUHG7OMwGmOOD2ZpX9iG8)
+
+You are the newest member of the Waze data analytics team. Your supervisor, May Santner, has sent you the following email asking you to complete a project proposal for the team’s churn project. Review the email, then follow the provided instructions to complete the PACE strategy document and the project proposal.
+
+_**Note:**_ _Team member names used in this workplace scenario project are fictional and are not representative of Waze._ 
+
+______________________________________________
+
+**Email from May Santner, Data Analysis Manager**
+
+**Subject:** Welcome to Waze!
+
+**From:** “May Santner,” May@waze
+
+Hello, and welcome to the team! 
+
+We are so happy to have you. We have been growing quickly and we can really use your expertise. 
+
+Leadership has asked our team to build a machine learning model that predicts user churn. The model will be based on a sample of Waze user data. An accurate model will help our company prevent user churn, improve user retention, and increase growth. 
+
+For your first task, please draft a plan of action for the team. Include questions we need to answer before we get started on the project, important details to consider at the beginning of the project, and action items for different stages of the project. 
+
+I understand you’ve completed a Google Careers Certificate on Advanced Data Analytics and learned the skills for planning, analyzing, constructing, and executing strategies for data science. Sylvester did one of the Google certificates and really loved it. They learned some incredible skills. Maybe you can use the skills you learned in that program to get started? 
+
+I really appreciate your help. Again, welcome to the team! 
+
+May Santner
+
+Data Analysis Manager
+
+Waze
+
+## Step-By-Step Instructions
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/teTuIylbQQKBq6xwUU4dBQ_d03a4942221546da86f1e8306f885cf1_image.png?expiry=1710028800000&hmac=qzDV413xNl0o_pmcDTfE2M6CWmHquAZNqQtXxQ2yNoE)
+
+Follow the instructions to complete the activity. Then, go to the next course item to compare your work to a completed exemplar.
+
+### **Step 1: Access the templates**
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/9S2Do4GsTiykkMyNBZ2XVg_b3f8a67b371b4a31b9c9f718a9cd77f1_image.png?expiry=1710028800000&hmac=wQ1V0fbNnQfBzdnkM531V1Gm6KTs5oGfGcrUcZQ4688)
+
+To use the templates for this course item, click the following links and select _Use Template_.
+
+Links to templates:
+
+- [Course 1 PACE strategy document](https://docs.google.com/document/d/1RaTEjQY1qFWOhNAK7n3lyUoXX9E8lRJ9JatRp05sNG4/template/preview?resourcekey=0-kFO66RukJ-dtCmD-QvJc3w)
+    
+- [Waze project proposal](https://docs.google.com/document/d/1Teq5Y1sEBbf_kULYYlUq6-WC1G8f90bYoyQtIHVvJXg/template/preview) 
+    
+
+### If you do not have a Google account, you can download the templates directly from the attachments below.
+
+### Step 2: Review the first page of the PACE strategy document
+
+The **Course 1 PACE strategy document** will guide you in determining the tasks necessary to complete the project proposal. As you approach each section, keep the PACE framework in mind. Consider how and when a data professional would plan, analyze, construct, and execute each task. Begin by reading through the instructions and information on page 1 of the PACE strategy document.
+
+### Step 3: Complete the Data Project Questions & Considerations 
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/dXuTB1eiQA-7REKHFB8uDQ_00e99a4473d544d8935103ac5f81aef1_image.png?expiry=1710028800000&hmac=IjaCe8PddCvoZ7DMDiEnvs2szwy3F3Qf9dEu6m6HRqc)
+
+### Step 4: Complete the PACE workflow
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/NuP5lZMtSeqzeetAUE042A_611982ee3b194774881843e0b17ef3f1_image.png?expiry=1710028800000&hmac=AiAUzDlu-AmcKtDfZQcEvAd37sH4npohIZ-8NPeleGQ)
+
+### Step 5: Complete the project proposal
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/KphgX3BHTxKw1bafOI2_nw_6eb116ece8f74f48bd388642ddc178f1_image.png?expiry=1710028800000&hmac=KuVDqnnqkK2ZuKOVyJ25KbEE9eJv2cRYPvhmOFGUcqQ)
+
+## **Pro Tip: Save the templates**
+
+Finally, be sure to save a blank copy of the templates you used to complete this activity. You can use them for further practice or in your professional projects. These templates will help you work through your thought processes and demonstrate your experience to potential employers.
+
+## What to Include in Your Response
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/icJUyQKeT5Km34k24G7Nxg_6b49d8973e5a48f0a4da08825f975cf1_image.png?expiry=1710028800000&hmac=D5GBlNT9zIYmtDm3VyC4lC3n_AgcUKs74bmBE8bjBrE)
+
+Later, you will have the opportunity to assess your performance using the criteria listed below. Be sure to address the following elements in your completed activity. 
+
+**Course 1 PACE strategy document**:
+
+- Answer the questions in the PACE strategy document
+    
+- Identify the proper stages of PACE for each task
+    
+
+**Waze project proposal**:
+
+- Assign each task to the appropriate milestone
+    
+- [Optional task] Align the project tasks with the appropriate stakeholder(s)
