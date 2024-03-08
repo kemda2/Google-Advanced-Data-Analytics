@@ -2954,3 +2954,124 @@ With this end-of-course project, you will gain valuable practice and apply your 
 ## **Key takeaways** 
 
 The Google Advanced Data Analytics Certificate end-of-course project is designed for you to practice and apply course skills in a fictional workplace scenario. By completing each project, you will have work examples that will enhance your portfolio and showcase your skills for future employers.
+
+<br> 
+
+*** 
+
+<br>
+
+# Activity: Create your Course 1 TikTok project 
+
+To pass this practice quiz, you must receive 100%, or 1 out of 1 point, by completing the following activity. You can learn more about graded and practice items in the [course overview](https://www.coursera.org/learn/foundations-of-data-science/supplement/AFT8j/course-1-overview).
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/uhSeNdNJTkahnKWGOUEcIA_662caeb3b58e4bb18fa341c000f68af1_image.png?expiry=1710028800000&hmac=iGpby26m1A3GSDZNIJqvbVgXP8uLsGKkfgayiCs6y7A)
+
+## Activity Overview
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/gQiOb03dSZG1iJaJWFhjfQ_41dbe7088d38409e8becd89f48ad8df1_image.png?expiry=1710028800000&hmac=LuMLMcQBYlkmOsZ4r-1zc4huhGdRld8j5kChM9vHMo4)
+
+In this activity, you will demonstrate your understanding of an effective data science workflow by completing a project proposal, intended to communicate information about project tasks and milestones with your team. You have previously learned about a tool that can help you complete project planning and development—the PACE strategy document. You will use the PACE strategy document to guide you through the process of creating a project proposal. 
+
+For additional information on how to complete this activity, review the previous readings: [_End-of-course project introduction_](https://www.coursera.org/learn/foundations-of-data-science/supplement/9Opfe/end-of-course-portfolio-project-introduction) and [_Course 1 end-of-course portfolio project overview: TikTok_](https://www.coursera.org/learn/foundations-of-data-science/supplement/ghsGB/course-1-end-of-course-portfolio-project-overview-tiktok).
+
+Be sure to complete this activity before moving on. The next course item will provide you with completed exemplars to compare to your own work. You will not be able to access the exemplars until you have completed this activity. 
+
+## Scenario
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Wx-Gtu_VS9CUX9NbBKIeMg_1873ec68d4db413aa8227248f99ee0f1_image.png?expiry=1710028800000&hmac=5GcCAdY1hnQlHpQHJvW4fU3WaRV8VCOI2eyifoUFnCI)
+
+TikTok, one of the world's leading destinations for short-form mobile videos, has just hired you as the newest member of their data analytics team. Your new supervisor has sent you the following email asking you to complete a project proposal for the team’s claims classification project. Review the email, then follow the provided instructions to complete the PACE strategy document and the claims classification project proposal.
+
+_**Note:**_ _Team member names used in this workplace scenario project are fictional and are not representative of TikTok._
+
+______________________________________________
+
+**Email from Rosie Mae Bradshaw, TikTok’s Data Analysis Manager**
+
+**Subject:** Welcome to the TikTok data team
+
+**From:** Rosie Mae Bradshaw@TikTok
+
+Welcome to the TikTok data team! 
+
+We are so glad to have you aboard.
+
+I’d like to get you started on our latest project. I’ll provide a little background that will give some context.
+
+With the number of submissions and interactions on TikTok each day, it’s challenging for our moderators to review each video, user comment, and content claim in a timely manner. You will assist us with the development of machine learning techniques that will assist in distinguishing between claims or opinions within content on the TikTok platform. The goal is to build a machine learning model with the capability to reliably classify user interaction data as a claim or opinion.
+
+For your first task, please draft a plan of action for the team. Include questions we need to answer before we get started on the project, important details to consider at the beginning of the project, and the milestones we'll likely need throughout the duration of the project. To help get you started, I’ll pass along some bullet points I’ve collected from stakeholders in an email.
+
+I recall from your interview that you’ve completed a Google Careers Certificate on Advanced Data Analytics. I’ve heard great things about the Google certificates. I'm sure that you’ll be able to use those skills to help get this latest project started.
+
+If you need anything as you are settling in, feel free to reach out.
+
+Rosie Mae Bradshaw
+
+Data Analysis Manager
+
+TikTok
+
+[Learn about TikTok’s Trust & Safety team](https://newsroom.tiktok.com/en-us/safety)
+
+## Step-By-Step Instructions
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/w9H2SK2yQ66xptJGLG5_6A_7c7104d8181c467d808b6f0aedf615f1_image.png?expiry=1710028800000&hmac=Dr7d_1Wu6FmVP-rBq55GqZ76Xz9bMblrERI-n0c-Gm0)
+
+Follow the instructions to complete the activity. Then, go to the next course item to compare your work to a completed exemplar.
+
+## Step 1: Access the templates
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/1lPKbDf4SuiJ_fprckkN3w_cc7cf1c38f8242d1bcc01587856b86f1_image.png?expiry=1710028800000&hmac=aUTLK-TFyNyO8KpchQjk0fZhKrrBpJkpod8cYfqYlZs)
+
+To use the templates for this course item, click the following links and select _Use Template_. 
+
+Links to templates:  
+
+- [Course 1 PACE strategy document](https://docs.google.com/document/d/1RaTEjQY1qFWOhNAK7n3lyUoXX9E8lRJ9JatRp05sNG4/template/preview?resourcekey=0-kFO66RukJ-dtCmD-QvJc3w)
+    
+- [TikTok project proposal](https://docs.google.com/document/d/1Teq5Y1sEBbf_kULYYlUq6-WC1G8f90bYoyQtIHVvJXg/template/preview) 
+    
+
+If you do not have a Google account, you can download the templates directly from the following attachments.
+### Step 2: Review the first page of the PACE strategy document
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/gWH1fz37RNK-CEGLsq_RoQ_036b3d483d404ca0bec4298daedba1f1_image.png?expiry=1710028800000&hmac=7DoA86Z8G1Kkm0Ew8msG4twlSlVELg7sURjFi5UnN8U)
+
+The **Course 1 PACE strategy document** will guide you in determining the tasks necessary to complete the project proposal. As you approach each section, keep the PACE framework in mind. Consider how and when a data professional would plan, analyze, construct, and execute each task. Begin by reading through the instructions and information on page 1 of the PACE strategy document.
+
+### Step 3: Complete the Data Project Questions & Considerations 
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/gWH1fz37RNK-CEGLsq_RoQ_036b3d483d404ca0bec4298daedba1f1_image.png?expiry=1710028800000&hmac=7DoA86Z8G1Kkm0Ew8msG4twlSlVELg7sURjFi5UnN8U)
+
+### Step 4: Complete the PACE workflow
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/gWH1fz37RNK-CEGLsq_RoQ_036b3d483d404ca0bec4298daedba1f1_image.png?expiry=1710028800000&hmac=7DoA86Z8G1Kkm0Ew8msG4twlSlVELg7sURjFi5UnN8U)
+
+### Step 5: Complete the project proposal
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/sG_59ideT5ysu0My471oGg_ebbd709130ff46c18f316930c88dc6f1_image.png?expiry=1710028800000&hmac=cpb4ZbclgpAUaxe2ZyBxoNeSxpSk84P3_FkIE810Pf4)
+
+## Pro Tip: Save the templates
+
+Finally, be sure to save a blank copy of the templates you used to complete this activity. You can use them for further practice or in your professional projects. These templates will help you work through your thought processes and demonstrate your experience to potential employers.
+
+## What to Include in Your Response
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/LpjqW6bJQMSC6PolOrxhvA_205fb4b9326f427496c2974eed8a5bf1_image.png?expiry=1710028800000&hmac=aELlKmuVg1rYbfkP37appzZOEQfkxjlJ7KYjwwoPB_w)
+
+Later, you will have the opportunity to assess your performance using the following criteria. Be sure to address these elements in your completed activity: 
+
+**Course 1 PACE strategy document**:
+
+- Answer the questions in the PACE strategy document
+    
+- Identify the proper stages of PACE for each task
+    
+
+**TikTok project proposal**:
+
+- Assign each task to the appropriate milestone
+    
+- [Optional task] Align the project tasks with the appropriate stakeholder(s)
