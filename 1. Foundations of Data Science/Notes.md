@@ -2140,3 +2140,51 @@ You will discover that PACE strategy documents are a great reference when workin
 ## Key takeaways
 
 Executive summaries offer an effective way to share information with decision makers, clients, and executives. These documents summarize the most important information within a project or plan of action, and share key insights and results. Typically, an executive summary reports on an identified problem and outlines the solutions used to address the problem.
+
+<br> 
+
+*** 
+
+<br>
+
+# Activity Exemplar: Create a project proposal
+
+Here is a completed exemplar along with an explanation of how the exemplar fulfills the expectations for the activity. 
+
+## Completed Exemplar
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/VyybOafOTJmwuyfxI6_N-w_86c96ca0cc694105829a204d8375f2f1_f9-eKhyAURJjnSdzAYsc8L-a_L0q-iRJTCOSXcdM0m7EisFqX-35ThoYFxsmILSpq2grQ5uB_3s8VrV7sBGAeXg8_gxwFAFj-_VgGDTMCdYQSNNWU_-4-21up6Xs-uRpv5vXY75lVpLslE-d46qqZo4?expiry=1710028800000&hmac=ulk2S4GXORuk9ww3fOzTu56G_VpxL13E3OGCV4NngRQ)
+
+To review the exemplar for this course item, click the following link and select _Use Template_. 
+
+Link to exemplar: [](https://docs.google.com/spreadsheets/d/1xsUJeRBDkoGuwrLMSQ1R2FEnlHnlfNzCkRLKkLTjSWw/copy)[Predictive maintenance project proposal](https://docs.google.com/presentation/d/1I7PiTk36zHBWiVPZFvy-8LstjinqjH2kAjAslobW2Wk/template/preview?resourcekey=0-yNGMEfJW7zbY4cuWnIrk0Q)
+
+OR
+
+If you don’t have a Google account, you can download the exemplar directly from the following attachment.
+
+[
+
+](https://d3c33hcgiwev3.cloudfront.net/bbl6HHa1Q_CcEEzDfMYDTA_d3188788fd7d4740afd26880c7a1d4f1_Predictive-maintenance-project-proposal.pptx?Expires=1710028800&Signature=bZBSu5iNDTzpCMqXXS8pWZ7ss4Yqo8zmF5uYvJMkEtJ9FSPxsi3l5lwRYHxJJEsWgwRaRbmul9L6m1HwroLPR-kYD-H9xvB5KLYGaR9~Vh8h6tkF9PgVZukGoPOnEkTm6BPfEPYWwyqm22d3KGDizWkX6VeExjsd3~x-zQbdfP4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+## Assessment of Exemplar
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/KyXFFXkdQNmRig7yWQFO-w_79013884db4e426eace97abbf87d0bf1_f9-eKhyAURJjnSdzAYsc8L-a_L0q-iRJTCOSXcdM0m7EisFqX-35ThoYFxsmILSpq2grQ5uB_3s8VrV7sBGAeXg8_gxwFAFj-_VgGDTMCdYQSNNWU_-4-21up6Xs-uRpv5vXY75lVpLslE-d46qqZo4?expiry=1710028800000&hmac=R6grnBQGpGwsp_pGpil6XpbHdfCEagQ5dVEnbWmfe08)
+
+Compare the exemplar to your completed activity. Review your work using each of the criteria in the exemplar. What did you do well? Where can you improve? Use your answers to these questions to guide you as you continue to progress through the course. 
+
+_**Note:**_ _The exemplar represents one possible way to complete the project proposal. Your project proposal will likely differ in certain ways. What’s important is that your project proposal organizes and communicates information that will help the data team successfully complete the project._ 
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/mTakr3JmQ4ikr26NVL2tGw_67b41e0dd0a448928941db6fab2c93f1_yeSz8Rubp6Wa09zp54sbvNbLWWw9Zm5W-U7d0hJodaxbEM4xo8fc5wSF98iIQb4T5xHabwyX4TIslz5Mb122oUKUSM0WCC0mdnGtjIUCJsXHPuNTHI0o4wJvqalCCvC-67B1jisQf2MmbDc43MLyBXs?expiry=1710028800000&hmac=x6JrIXPaUrilvkB5W2rNgoOWky1RdSSEOo-_d2Ba3Do)
+
+The project proposal provides:
+
+- A brief and purposeful project title 
+    
+- An objective statement that clearly and concisely describes the goal of the project 
+    
+- A list of key tasks that details the work that needs to be completed within each milestone
+    
+- A list of deliverables that indicates the completed items to be shared with team members or stakeholders 
+    
+- A time estimate for achieving each project milestone
