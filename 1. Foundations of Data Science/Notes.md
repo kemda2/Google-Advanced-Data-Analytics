@@ -2296,3 +2296,18 @@ The project proposal provides:
 ## T
 
 **Tableau**: A business intelligence and analytics platform that helps people visualize, understand, and make decisions with data
+
+<br> 
+
+*** 
+
+<br>
+
+# Module 5 Course 1 end-of-course project
+
+<br> 
+
+*** 
+
+<br>
+
