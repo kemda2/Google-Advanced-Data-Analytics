@@ -2627,3 +2627,127 @@ With this end-of-course project, you will gain valuable practice and apply your 
 ## **Key takeaways** 
 
 The Google Advanced Data Analytics Certificate end-of-course project is designed for you to practice and apply course skills in a fictional workplace scenario. By completing each course’s end-of-course project, you will have work examples that will enhance your portfolio and showcase your skills for future employers.
+
+<br> 
+
+*** 
+
+<br>
+
+# Activity: Create your Course 1 Automatidata project
+
+To pass this practice quiz, you must receive 100%, or 1 out of 1 point, by completing following the activity. You can learn more about the graded and practice items in the [course overview](https://www.coursera.org/learn/foundations-of-data-science/supplement/AFT8j/course-1-overview).
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/lekfN_eNT4GrGuNnq2gg3w_c3a1f1a67e40471d96061b522561b3f1_magnifying-glass-icon.png?expiry=1710028800000&hmac=e2jKid3ZMatGwpowt-eZceXnv6wm316ZqoSh5hg-4YA)
+
+## Activity Overview
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/SlED7tcUToiP0KqA5zHu3Q_4b2a1141e3cb43f9a0fd3845eddedaf1_2---rainbow-line.png?expiry=1710028800000&hmac=V9IRs2QgNUETZjvdDyYZ1DeWKQbx2OaQyHe9FS4opFs)
+
+In this activity, you will demonstrate your understanding of an effective data science workflow by completing a project proposal, intended to communicate information about project tasks and milestones with your team. You have previously learned about a tool that can help you complete project planning and development—the PACE strategy document. You will use the PACE strategy document to guide you through the process of creating a project proposal. 
+
+For additional information on how to complete this activity, review the previous readings: [_End-of-course portfolio project introduction_](https://www.coursera.org/learn/foundations-of-data-science/supplement/9Opfe/end-of-course-portfolio-project-introduction) and [_Course 1 end-of-course project overview: Automatidata_](https://www.coursera.org/learn/foundations-of-data-science/supplement/XxgHa/course-1-end-of-course-portfolio-project-overview-automatidata).
+
+Be sure to complete this activity before moving on. The next course item will provide you with completed exemplars to compare to your own work. You will not be able to access the exemplars until you have completed this activity.
+
+## Scenario
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/5O1iXmITRziB4WoSlMNUeQ_b337bb1105694f1f82745ccb3d36a8f1_image.png?expiry=1710028800000&hmac=j_0zl0ZMSXaZqcqxWNs9hzwRLIQgpXXYcs7Ly2KmnIA)
+
+The data consulting firm Automatidata hired you as the newest member of their data analytics team. In a previous email, your new supervisor shared some bullet points from the last Automatidata leadership team meeting. You have just received an additional email from your manager asking you to complete a project proposal for the New York City Taxi and Limousine Commission project. Review the email, then follow the provided instructions to complete the PACE strategy document and the project proposal.
+
+_**Note:**_ _Team member names used in this workplace scenario are fictional and are not representative of the New York City TLC._
+
+______________________________________________
+
+**Email from Deshawn Washington, Data Analysis Manager**
+
+**Subject:** Welcome to Automatidata!
+
+**From:** “Deshawn Washington,” Deshawn@automatidata.com 
+
+I hope you are adjusting well in your new position.
+
+We are so happy to have you. We have been growing quickly, and we really could use your expertise. 
+
+For your first task on the team, you’ll be diving right into our current contract with the New York City Taxi and Limousine Commission (TLC). The TLC has been collecting New York City- based data on taxi and rideshare trips for several years now. They've contracted our team to build a regression model that predicts taxi cab fares before each ride based on distance, time of day, and any additional variables we find necessary.
+
+For your first task, please draft a plan of action for the team. Include questions we need to answer before we get started on the project, important details to consider at the beginning of the project, and action items we'll need throughout the duration of the project. 
+
+I understand you’ve completed the Google Advanced Data Analytics Certificate and learned the skills for planning, analyzing, constructing, and executing strategies for data science. Jesse did one of the Google Career Certificates, too, and some of these skills have been really useful here at Automatidata. Maybe you could use some things you learned in that program to help you get started? 
+
+I really appreciate this, and again, welcome to the team! 
+
+Deshawn Washington
+
+Data Analysis Manager
+
+Automatidata
+
+## Step-By-Step Instructions
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/zExAfLT1QBCDnymGsJmkVQ_67cf89b2fa3a4a72b61f98d34b3a5df1_c-N_aSIFHrMi9XBscGM8wden_gp0E5itDkYPuOo49uMthe8SqbdfreWK2gww8uiBbUliv3I7hgc9JYqdiwUswqAjZQtq4Isjr_dk1ARtHkoKMafpk_l5xUQjt87gCM3c9LUDCqOJr98fQ5ntiYhObyvaFSjBXpP5N8Unpm2r8SSF-Hv-V8rxRczXeLBQJ1BXZ_gm7aEP7V_LZ1ZvvuJ3Y6-KDzjmaqqYn9attQ?expiry=1710028800000&hmac=lxzdGWZdLaHRAgjKF7gvVpHhrX6T99yEFYpGF7Tkio4)
+
+Follow the instructions to complete the activity. Then, go to the next course item to compare your work to a completed exemplar.
+
+### **Step 1: Access the templates**
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/mW9wcApqR66rRRMkbFSdcA_110c3f738be44560ad5adb599f4e27f1_dots-to-the-left.png?expiry=1710028800000&hmac=kyEzZn9kpgPbh6I8EpZMSo4iZvovfk1JypB_GtxG2vQ)
+
+### To use the templates for this course item, click each of the following links and select _Use Template_. 
+
+### Links to templates:  [](https://docs.google.com/spreadsheets/d/10S7u42BgUq4xvT6ZmFI7VJl_93oFA-GSCYI3-T344jw/copy)
+
+- [Course 1 PACE strategy document](https://docs.google.com/document/d/1RaTEjQY1qFWOhNAK7n3lyUoXX9E8lRJ9JatRp05sNG4/template/preview?resourcekey=0-kFO66RukJ-dtCmD-QvJc3w)
+    
+- [Automatidata project proposal](https://docs.google.com/document/d/1Teq5Y1sEBbf_kULYYlUq6-WC1G8f90bYoyQtIHVvJXg/template/preview) 
+    
+
+OR
+
+If you don’t have a Google account, you can download the templates directly from the following attachments.
+
+https://d3c33hcgiwev3.cloudfront.net/i0lTE1dhSPK7NeT6Q_2aSg_5eb57d95dd2848e0afd85619a9ae05f1_Activity-Template_-Course-1-PACE-strategy-document-1-.docx?Expires=1710028800&Signature=LCG8r~eGHc1AGw8pROvAriBIblhSqz5b9TVz6UeDYcMuPBiW1WpnZqS0p6dBYVC2eaUPs-ItZFLMapVpEud9vMNN3vopFVaR2xlBwRIvNuBCvry7OI5DW4jDh1iu28z8Vu5teXsze~5xbKyPodllSTXGc2j3M9mb0cKNnJ2BpMc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+https://d3c33hcgiwev3.cloudfront.net/Q3zzz2vUSQm_V6yFjBjaZQ_af1556e0cff045caaacea5406b55b1f1_Activity-Template_-Project-Proposal.docx?Expires=1710028800&Signature=SX8WVhCpX997BgoopgTBoeOPhbSUtkKHjzIuw2T7RJGDR506W6068~5xYaqOhgjt~o1YFCTCdzDFNZNJCPMiiPm8jVMyARwCwdnetuub5A7-M1zf4OEElZZUae038XeIlInta6PChvI9zw9e~OOJSXDQGKFqgp-iS~QbXQztwaY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+### Step 2: Review the first page of the PACE strategy document
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/mW9wcApqR66rRRMkbFSdcA_110c3f738be44560ad5adb599f4e27f1_dots-to-the-left.png?expiry=1710028800000&hmac=kyEzZn9kpgPbh6I8EpZMSo4iZvovfk1JypB_GtxG2vQ)
+
+The **Course 1 PACE strategy document** will guide you in determining the tasks necessary to complete the project proposal. As you approach each section, keep the PACE framework in mind. Consider how and when a data professional would plan, analyze, construct, and execute each task. Begin by reading through the instructions and information on page 1 of the PACE strategy document.
+
+### Step 3: Complete the Data Project Questions & Considerations 
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/mW9wcApqR66rRRMkbFSdcA_110c3f738be44560ad5adb599f4e27f1_dots-to-the-left.png?expiry=1710028800000&hmac=kyEzZn9kpgPbh6I8EpZMSo4iZvovfk1JypB_GtxG2vQ)
+
+### Step 4: Complete the PACE workflow
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/mW9wcApqR66rRRMkbFSdcA_110c3f738be44560ad5adb599f4e27f1_dots-to-the-left.png?expiry=1710028800000&hmac=kyEzZn9kpgPbh6I8EpZMSo4iZvovfk1JypB_GtxG2vQ)
+
+### Step 5: Complete the project proposal
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/mW9wcApqR66rRRMkbFSdcA_110c3f738be44560ad5adb599f4e27f1_dots-to-the-left.png?expiry=1710028800000&hmac=kyEzZn9kpgPbh6I8EpZMSo4iZvovfk1JypB_GtxG2vQ)
+
+### Pro Tip: Save the templates
+
+Finally, be sure to save a blank copy of the templates you used to complete this activity. You can use them for further practice or in your professional projects. These templates will help you work through your thought processes and demonstrate your experience to potential employers.
+
+## What to Include in Your Response
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/mW9wcApqR66rRRMkbFSdcA_110c3f738be44560ad5adb599f4e27f1_dots-to-the-left.png?expiry=1710028800000&hmac=kyEzZn9kpgPbh6I8EpZMSo4iZvovfk1JypB_GtxG2vQ)
+
+Later, you will have the opportunity to assess your performance using the following criteria. Be sure to address the following elements in your completed activity. 
+
+**Course 1 PACE strategy document**:
+
+- Answer the questions in the PACE strategy document
+    
+- Identify the proper stages of PACE for each task
+    
+
+**Automatidata project proposal**:
+
+- Assign each task to the appropriate milestone
+    
+- [Optional task] Align the project tasks with the appropriate stakeholder(s)
