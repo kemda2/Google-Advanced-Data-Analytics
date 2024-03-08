@@ -1506,12 +1506,6 @@ The interview is an opportunity to share how you can add value to an organizatio
 
 # Module 4 Data applications and workflow
 
-<br> 
-
-*** 
-
-<br>
-
 # The PACE Stages
 
 So far, you have been introduced to the PACE framework and learned how it provides a clear foundation and structure for data analysis projects. You also learned that PACE is an acronym; each one of the letters represents an actionable stage in a project: plan, analyze, construct, and execute. In this reading, you will learn more about the PACE workflow and discover how each stage of the process can help guide data analysis.
