@@ -1788,3 +1788,54 @@ A solid presentation can help others understand the findings of your data analys
 ## Key takeaways
 
 Effective communication is important for data professionals. Regardless of where you are in the framework of a project, communication can inform and empower your stakeholders. Identify the needs of your audience and invite feedback. Remember that your role is to connect the data, technology, and the stakeholders. When sharing the results of your data analysis, make your presentations clear, focused, accessible, and take into account any assumptions or limitations presented by the data. Demonstrate your value by being available and ready to share insights in a simple way that promotes general understanding.
+
+<br> 
+
+*** 
+
+<br>
+
+
+Here is a completed exemplar along with an explanation of how the exemplar fulfills the expectations for the activity. 
+
+## Completed Exemplar
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/0RNu3aVATzezkcicd97sLA_a6e6d8a852494169bf85985babdf6ff1_line.png?expiry=1710028800000&hmac=l7bjYtnPKvpSR52E1-2q4tlN_F-k1Vbpgu7vsySOnP0)
+
+To review the exemplar for this course item, click the following link and select _Use Template_. 
+
+Link to exemplar: [](https://docs.google.com/spreadsheets/d/1xsUJeRBDkoGuwrLMSQ1R2FEnlHnlfNzCkRLKkLTjSWw/copy)[Emails to different stakeholders](https://docs.google.com/document/d/1vkUh8QZbLc0YGbV1K7-wrTfw6770j9UrZwgLWUQXwMs/template/preview)
+
+OR
+
+If you don’t have a Google account, you can download the exemplar directly from the following attachment.
+
+https://docs.google.com/document/d/1vkUh8QZbLc0YGbV1K7-wrTfw6770j9UrZwgLWUQXwMs/template/preview
+## Assessment of Exemplar
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/0RNu3aVATzezkcicd97sLA_a6e6d8a852494169bf85985babdf6ff1_line.png?expiry=1710028800000&hmac=l7bjYtnPKvpSR52E1-2q4tlN_F-k1Vbpgu7vsySOnP0)
+
+Compare the exemplar to your completed activity. Review your work using each of the criteria in the exemplar. What did you do well? Where can you improve? Use your answers to these questions to guide you as you continue to progress through the course. 
+
+_**Note:**_ _The exemplar represents one possible way to complete the emails. Your emails will likely differ in certain ways. What’s important is that your emails clearly identify information that will help each recipient fulfill their job responsibilities._
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/dQ3J_PJXSeOGfB4za4cMVQ_e04e8aa3f75b46449e5a23a387ecdef1_fM2DAw9m_Keds_jBk_HIob9uVrNYVi8u7v4_sMg8gKu4qIk4OIpx5pEIqjKACetiGf9EM4hGTyvuxcolgntG9xhnekuAKvYndESYu05r0Njz-C0V4epxw_Tgk7ZaI2wqO7zHso1gpMVpK2tu3QlkHzw?expiry=1710028800000&hmac=GBqhxC__CQI5wXm3wcSWTTpjoO_MlhYSDrcRbiaDmWA)
+
+Email #1 to the new data professional provides:
+
+- An overview of the data team’s workflow. This information gives the new data professional insight into how the data team shares their results and invites feedback from internal stakeholders.
+    
+- The accuracy goal for the visitation prediction model. Knowing the project objective is important for a data professional working to develop an effective ML model.  
+    
+
+Email #2 to the new public relations writer provides:
+
+- Relevant information for creating non-technical articles that promote the NPS’ mission and work. This information includes the purpose and benefits of the visitation prediction project, and the problem the project is addressing. 
+    
+- Direct, non-technical language that does not include unnecessary detail. 
+    
+
+Both emails:
+
+- Invite the recipient to ask follow-up questions. Questions are an opportunity to improve communication and learn more about the project.
+    
