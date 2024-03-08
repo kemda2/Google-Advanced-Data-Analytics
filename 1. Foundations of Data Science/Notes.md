@@ -2751,3 +2751,62 @@ Later, you will have the opportunity to assess your performance using the follow
 - Assign each task to the appropriate milestone
     
 - [Optional task] Align the project tasks with the appropriate stakeholder(s)
+
+<br> 
+
+*** 
+
+<br>
+
+# Activity Exemplar: Create your Course 1 Automatidata project
+
+Here are completed exemplars along with an explanation of how the exemplars fulfill the expectations for the activity. 
+
+## Completed Exemplars
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/0RNu3aVATzezkcicd97sLA_a6e6d8a852494169bf85985babdf6ff1_line.png?expiry=1710028800000&hmac=l7bjYtnPKvpSR52E1-2q4tlN_F-k1Vbpgu7vsySOnP0)
+
+To review the exemplars for this course item, click the following link and select _Use Template_. 
+
+Link to exemplars: [](https://docs.google.com/spreadsheets/d/1xsUJeRBDkoGuwrLMSQ1R2FEnlHnlfNzCkRLKkLTjSWw/copy)
+
+- [Course 1 PACE strategy document](https://docs.google.com/document/d/1vQAji1vQtK1-IdypxBg1g3K-dTu4mXcBlxC572eSwZM/template/preview)
+    
+- [Automatidata project proposal](https://docs.google.com/document/d/1ru7p_XahBMHah9ELzSIoEcBzsWdMp0SGczI19EgP7XI/template/preview)
+    
+
+OR
+
+If you don’t have a Google account, you can download the exemplars directly from the following attachments.
+## Assessment of Exemplars
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/0RNu3aVATzezkcicd97sLA_a6e6d8a852494169bf85985babdf6ff1_line.png?expiry=1710028800000&hmac=l7bjYtnPKvpSR52E1-2q4tlN_F-k1Vbpgu7vsySOnP0)
+
+### Course 1 PACE strategy document
+
+Compare the exemplar to your completed PACE strategy document. Your responses may differ from the exemplar, but that is to be expected. What did you do well? Where can you improve? Use your answers to these questions to guide you as you progress through the course. 
+
+_**Note:**_ _The exemplar represents one possible way to address the PACE questions and classify project tasks according to the PACE workflow. Yours might differ in certain ways, such as your specific responses to questions. What’s important is that you have a general idea of the order and PACE-stage classification for tasks in the data analysis process._
+
+Your replies to the Course 1 PACE strategy document should: 
+
+- Be relevant to the Automatidata project goals and related to data science
+    
+- Demonstrate your understanding and assessment of the business scenario
+    
+- Communicate the reasoning behind your decisions to pair PACE stages with specific tasks
+    
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/mW9wcApqR66rRRMkbFSdcA_110c3f738be44560ad5adb599f4e27f1_dots-to-the-left.png?expiry=1710028800000&hmac=kyEzZn9kpgPbh6I8EpZMSo4iZvovfk1JypB_GtxG2vQ)
+
+### Course 1 Automatidata project proposal
+
+Compare the exemplar to the Automatidata project proposal you completed. Review your work using each of the criteria in the exemplar. What did you do well? Where can you improve? Use your answers to these questions to guide you as you progress through the course. 
+
+_**Note:**_ _The exemplar represents one possible way to complete the Automatidata project proposal. Yours might differ in certain ways, such as specific task assignments, PACE stages, or relevant stakeholders. What’s important is that you have an overall understanding of the purpose and organization of project proposals for data-driven work._
+
+Your project proposal should: 
+
+- Clearly communicate the overall project goal 
+    
+- Identify key tasks, milestones, and stakeholders
