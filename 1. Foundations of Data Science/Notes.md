@@ -3470,3 +3470,34 @@ Your project proposal should: 
 To access this course item, click the link below and select “Use Template.”
 
 Link to glossary: [Course 1 glossary](https://docs.google.com/document/d/1fbBBgZ-YbIxyZLVdT4ZyP2-fYud-7Dz9j4IRDHSO9v0/template/preview?resourcekey=0-qAkp5vU7MK_rcDO0Th1hqg)
+
+<br> 
+
+*** 
+
+<br>
+
+# Get started on the next course
+
+Congratulations on completing the first course in the Google Advanced Data Analytics Certificate! In this part of the program, you learned the basic concepts of data science and discovered how data scientists operate in the workplace. You also learned how the PACE workflow can help you better understand how to navigate the technical and workplace expectations of a data professional.
+
+The entire program has seven courses: 
+
+1. **Foundations of Data Science –** Learn how data professionals operate in the workplace and how different roles within the data-career space contribute to an organization’s vision of its future. You’ll explore data science roles, communication skills, and data ethics. _(This is the course you just completed. Well done!)_
+    
+2. **Get Started with Python –** Learn basic Python programming and syntax, loops, strings, lists, dictionaries, and object-oriented programming.
+    
+3. **Go Beyond the Numbers: Translate Data into Insights –** Learn the fundamentals of data cleaning and visualizations and how to uncover meaningful stories in the data.
+    
+4. **The Power of Statistics –** Learn descriptive and inferential statistics, basic probability and probability distributions, sampling, confidence intervals, and hypothesis testing.
+    
+5. **Regression Analysis: Simplify complex data relationships –** Learn to model variable relationships, focusing on linear and logistic regression.
+    
+6. **The Nuts and Bolts of Machine Learning –** Learn unsupervised machine learning techniques and how to apply them to organizational data. 
+    
+7. **Google Advanced Data Analytics Capstone –** Complete a hands-on project designed to allow you to use the skills and competencies acquired in the certificate. 
+    
+
+Now that you have completed this course, you are ready to move on to the next course: [**Get Started with Python**](https://www.coursera.org/learn/get-started-with-python/home/week/1). 
+
+Keep up the great work!
