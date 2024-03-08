@@ -2347,3 +2347,145 @@ To complete the end-of-course portfolio project, you will first need to:
     
 
 In the next reading, you will learn about the workplace scenarios and how to get started on your end-of-course project. Good luck!
+
+<br> 
+
+*** 
+
+<br>
+
+
+# Explore your Course 1 workplace scenarios
+
+# **Overview**
+
+This certificate offers you a choice of several different workplace scenarios to use when completing each end-of-course project:
+
+- Automatidata, featuring a fictional data consulting firm 
+    
+- TikTok, created in partnership with the short-form video hosting company
+    
+- Waze, created in partnership with the realtime driving directions app  
+    
+
+Each scenario offers you an opportunity to apply your skills and create work samples to share when applying for jobs; so, you will be practicing similar skills regardless of the workplace scenario. It is recommended that you work with the same scenario for each end-of-course project to have a cohesive experience. However, you are welcome to investigate any of the workplace scenarios you are interested in as you progress through the program. 
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/5ef90f1a-a68c-4dd2-a0dd-9f633d3f37d4)
+
+_**Reminder:**_ _We recommend that you choose one workplace scenario to follow for all end-of-course projects to ensure end-to-end project development._
+
+The minimum requirement to earn your Advanced Data Analytics Certificate is to complete the end-of-course project, using one workplace scenario, for each course. You may complete the project for as many of the workplace scenarios as you wish. Completing the project for more than one workplace scenario in a single course offers you additional practice and work examples you can add to your portfolio and share with prospective employers during your job search.
+
+This reading offers an overview of all available workplace scenarios. Before moving on, identify the scenario you would like to complete for the Course 1 end-of-course project.
+
+# **Course 1 workplace scenarios**
+
+## **Automatidata**
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/ed224f33-6b48-412b-a691-4dd84367d7e5)
+
+**Project goal:**  
+
+In this fictional scenario, the New York City Taxi and Limousine Commission (TLC) has approached the data consulting firm Automatidata to develop an app that enables TLC riders to estimate the taxi fares in advance of their ride.
+
+**Background:** 
+
+Since 1971, TLC has been regulating and overseeing the licensing of New York City's taxi cabs, for-hire vehicles, commuter vans, and paratransit vehicles.
+
+**Scenario:**
+
+You are a newly-hired data professional at Automatidata, a fictional data consulting firm. Automatidata’s focus is to help clients transform their unused and stored data into useful solutions. In this scenario, you will consult with The New York City Taxi & Limousine Commission to develop an app that will help users (TLC riders) estimate their taxi fares before their ride. Your first responsibility as a data analytics consultant will be to structure the necessary tasks into a project proposal that establishes milestones for the ride fare data project. 
+
+**Course 1 tasks:**
+
+- Gather information from the notes from the last executive meeting of Automatidata
+    
+- Assign PACE stages to the requested tasks
+    
+- Organize tasks into milestones
+    
+- Create a project proposal for the executive team’s approval
+    
+
+_**Note:**_ _The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes._ 
+
+## **TikTok**
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/ffdd35f4-6806-44ea-bdb9-477697ac0e17)
+
+**Project goal:**  
+
+The TikTok data team is developing a machine learning model for classifying claims made in videos submitted to the platform.
+
+**Background:** 
+
+TikTok is the leading destination for short-form mobile video. The platform is built to help imaginations thrive. TikTok's mission is to create a place for inclusive, joyful, and authentic content–where people can safely discover, create, and connect.
+
+**Scenario:** 
+
+As a data analyst on TikTok's data team, with new considerations from the leadership team, you will create a project proposal by assigning the required data analytical tasks into realistic milestones that will advise future steps in the claims classification project.
+
+**Course 1 tasks:**
+
+- Gather information from stakeholder notes from within TikTok
+    
+- Assign PACE stages to the requested tasks for the classification project
+    
+- Organize tasks into milestones
+    
+- Create a project proposal for the TikTok data team
+    
+
+_**Note:**_ _The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes._ 
+
+## **Waze**
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/402fdf0f-c47b-458f-803f-b9f224f8fa82)
+
+**Project goal:**  
+
+Waze leadership has asked your data team to develop a machine learning model to predict user churn. Churn quantifies the number of users who have uninstalled the Waze app or stopped using the app. This project focuses on monthly user churn. An accurate model will help prevent churn, improve user retention, and grow Waze’s business.
+
+**Background:** 
+
+Waze’s free navigation app makes it easier for drivers around the world to get to where they want to go. Waze’s community of map editors, beta testers, translators, partners, and users helps make each drive better and safer. 
+
+**Scenario:** 
+
+You are the newest member of Waze’s data team. Your team is about to begin their user churn project. The first step is to create a project proposal. The proposal will clearly define the overall goal of the project, and identify key tasks, milestones, and stakeholders. 
+
+**Course 1 tasks:**
+
+- Assign PACE stages to the requested tasks for the user churn project
+    
+- Organize tasks into milestones
+    
+- Create a project proposal for the Waze data team
+    
+
+_**Note:**_ _The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes._ 
+
+# **Key Takeaways**
+
+In Course 1, Foundations of Data Science, you explored the world of data professionals and learned how data analysis contributes to an organization's goals.
+
+### **Course 1 skills:**
+
+- Effective communication
+    
+- Understand cross-functional team dynamics
+    
+- Project management
+    
+- Share insights and ideas with stakeholders
+    
+
+### **Course 1 end-of-course project deliverables:** 
+
+- Complete the Course 1 PACE strategy document
+    
+- Create a project proposal
+    
+
+The end-of-course portfolio projects are designed for you to apply your data analytical skills within a workplace scenario. No matter which scenario you work with, you will practice your ability to discuss data analytic topics with coworkers, internal team members, and external clients.
+
+As a reminder, you are required to complete one project for each course. To gain additional practice, or to add more samples to your portfolio, you may complete as many of the scenarios as you wish.
