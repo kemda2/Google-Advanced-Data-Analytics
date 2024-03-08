@@ -1657,7 +1657,7 @@ Everyone can use feedback–whether it is positive reinforcement or areas for im
 
 ### 3. Be the connection to the data
 
-## You are your team’s direct connection to the insights your data offers. Your goal is to help other stakeholders understand the process and how it addresses their needs. When everyone understands the process, communication can be highly effective.
+You are your team’s direct connection to the insights your data offers. Your goal is to help other stakeholders understand the process and how it addresses their needs. When everyone understands the process, communication can be highly effective.
 
 - Focus on the objectives to help others better understand your data process.
     
