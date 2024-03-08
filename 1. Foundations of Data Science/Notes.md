@@ -3458,3 +3458,15 @@ Your project proposal should: 
 - Clearly communicate the overall project goal 
     
 - Identify key tasks, milestones, and stakeholders
+
+<br> 
+
+*** 
+
+<br>
+
+# Course 1 glossary
+
+To access this course item, click the link below and select “Use Template.”
+
+Link to glossary: [Course 1 glossary](https://docs.google.com/document/d/1fbBBgZ-YbIxyZLVdT4ZyP2-fYud-7Dz9j4IRDHSO9v0/template/preview?resourcekey=0-qAkp5vU7MK_rcDO0Th1hqg)
