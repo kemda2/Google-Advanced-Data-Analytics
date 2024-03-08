@@ -3075,3 +3075,60 @@ Later, you will have the opportunity to assess your performance using the follow
 - Assign each task to the appropriate milestone
     
 - [Optional task] Align the project tasks with the appropriate stakeholder(s)
+
+<br> 
+
+*** 
+
+<br>
+
+
+# Activity Exemplar: Create your Course 1 TikTok project
+
+Here are completed exemplars along with an explanation of how the exemplars fulfill the expectations for the activity. 
+
+## Completed Exemplars
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/jFus8ZDmQRaFc28K7qvXsg_2c7b975d2b2a4aea8a01bf403d2a2cf1_image.png?expiry=1710028800000&hmac=y3hX-DDZRJS54xiC-uRV-BgyQPzwCsVekqptm4ADF1M)
+
+To review the exemplars for this course item, click the following link and select _Use Template_.
+
+Link to exemplars:
+
+- [Activity Exemplar: Course 1 PACE strategy document](https://docs.google.com/document/d/1vQAji1vQtK1-IdypxBg1g3K-dTu4mXcBlxC572eSwZM/template/preview)
+    
+- [Activity Exemplar: TikTok project proposal](https://docs.google.com/document/d/1csbxKOyfFLCIFltyhvP2AHT5-f7VGG2cH86xybEPUGQ/template/preview?resourcekey=0-KzHSOmT6vnkqZ46m56qoaw)
+    
+
+## Assessment of Exemplar
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/uxlhCmFZQyyVpVa6oOIkPA_daf18fa90dde41988d07b2898e3413f1_image.png?expiry=1710028800000&hmac=SHc-JHwaSIjT6rdF4B6koc3RFAMbt89bxWCF7XGNUWc)
+
+### Course 1 PACE strategy document
+
+Compare the exemplar to your completed PACE strategy document. Your responses may differ from the exemplar, but that is to be expected. What did you do well? Where can you improve? Use your answers to these questions to guide you as you progress through the course. 
+
+_**Note:**_ _The exemplar represents one possible way to address the PACE questions and classify project tasks according to the PACE workflow. Yours might differ in certain ways, such as your specific responses to questions. What’s important is that you have a general idea of the order and PACE-stage classification for tasks in the data analysis process._
+
+Your replies to the Course 1 PACE strategy document should: 
+
+- Be relevant to the TikTok project goals and related to data science
+    
+- Demonstrate your understanding and assessment of the business scenario
+    
+- Communicate the reasoning behind your decisions to pair PACE stages with specific tasks
+    
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/TCcEfZiSRzCXh2bH3HiSLg_6e02310dc5204e84b4d3ee7f189c59f1_image.png?expiry=1710028800000&hmac=TyHiUV1lvYtADJFWZepVsI9nnbU4Hsf-7T6R_v0BfgM)
+
+### Course 1 TikTok project proposal
+
+Compare the exemplar to the TikTok project proposal you completed. Review your work using each of the criteria in the exemplar. What did you do well? Where can you improve? Use your answers to these questions to guide you as you continue to progress through the course. 
+
+_**Note:**_ _The exemplar represents one possible way to complete the TikTok_ _project proposal. Yours might differ in certain ways, such as specific task assignments, PACE stages, or relevant stakeholders. What’s important is that you have an overall understanding of the purpose and organization of project proposals for data-driven work._
+
+Your project proposal should: 
+
+- Clearly communicate the overall project goal 
+    
+- Identify key tasks, milestones, and stakeholders
