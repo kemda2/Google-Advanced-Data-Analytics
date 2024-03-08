@@ -2084,3 +2084,59 @@ You will discover that PACE strategy documents are a great reference when workin
 ## Key takeaways
 
 A project proposal is a plan of action that outlines what needs to be accomplished and how to achieve your intended goals and outcomes. Proposals define a project’s purpose and scope, and list key milestones, deliverables, timelines, and schedules. It’s important to update proposals throughout the course of a project, as the project’s scope, objectives, and stakeholders may change over time.
+
+<br> 
+
+*** 
+
+<br>
+
+# Connect PACE with executive summaries
+
+In this reading, you will continue to examine communication within the data professional workplace. Regardless of workflow, data professionals need ways to share and communicate plans, updates, and summaries about projects. A document called an **executive summary** is used to update decision makers who may not be directly involved in the tasks of a project. In your role as a data professional, you will often be involved in creating executive summaries. 
+
+## Executive summaries
+
+Executive summaries are documents that summarize the most important points about a project, giving decision makers a brief overview of the most relevant information. They can also be used to help new team members quickly become acquainted with a project. The format is designed to respect the responsibilities of decision makers and/or executives who may not have time to read and understand an entire report. 
+
+Executive summaries are used across numerous industries and organizations. There are many ways to present information within an executive summary, including software options built specifically for that purpose. In this program, you will primarily consider a one-page format within a presentation slide. Although the design and layout of executive summaries can vary, there are key elements that are common among them.
+
+### Elements of an executive summary
+
+Executive summaries are used across a wide variety of businesses and typically include the following elements: 
+
+**Project title:** A project's theme is incorporated into the executive summary title to create an immediate connection with the target audience.
+
+**The problem:** A statement that focuses on the need or concern being targeted or addressed by the project. Note that the problem can also be referred to as the hypothesis that you’re trying to prove through data analysis.
+
+**The solution:** This statement summarizes a project’s main goal. In this section, actions are described that address the concerns outlined in the problem statement.
+
+**Details/Key Insights:** The purpose of this section is to provide any additional background information that may assist the target audience in understanding the project's objectives. Determining what details to include depends on the intended audience.
+
+**Next steps/Recommendations:** Information that supports the actions the team plans to take. This can also include recommendations for decision makers based on the insights gained over the course of the project. In this section, a data professional may also include general project reflections. When you are adding to this section, include at least one point for recommendations and one for the suggested next steps.
+
+### Sample executive summary
+
+The following linked sample executive summary deals with a fictional visitation prediction project undertaken by the U.S. National Park Service (NPS). The intended audience of this summary is a group of decision makers from NPS leadership. The purpose of this summary is to share the insights gained through data analysis of recreational park visits. Each section delivers a short statement without embellishment. This allows decision makers to quickly grasp the most relevant points about a project. Reference this document as you review each of the following sections.
+
+To access the sample executive summary, click the following link and select “Use Template.” 
+
+Link to sample executive summary: [Visitation prediction project executive summary](https://docs.google.com/presentation/d/1MQ2cXMvsWQfzTD6iAJqnj5Tvynrv4RCZQUnZie1ZuMo/template/preview?resourcekey=0-_Ck9PU4Bw_JHxrLqobHWXw)
+
+OR
+
+If you don’t have a Google account, you can download the file directly from the following attachment.
+
+[
+
+](https://d3c33hcgiwev3.cloudfront.net/QD7213rSSm2XtKC66AkKQQ_11fd004d9f894929a7952b91b5a998f1_Visitation-prediction-project-executive-summary.pptx?Expires=1710028800&Signature=jngP8EB6QVNrgYi6UEdtBuCAIO9-3huofsOEDRVeSQIO3IhI2UkDdB1b6Axs9vabnROM8wGduhDlhbIpR3usocFPTDJh8ZKflqpmzMVZl4dd-fG1j8GebavJLO6C6bTE-6ZdzvHX~RMia~X7xzVP1trpmBfvoZNNQMyZsoISumM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+## PACE and executive summaries
+
+In this course, you explored the PACE (Plan, Analyze, Construct, Execute) workflow and how it can help guide projects. Through PACE, the tasks and deliverables of a project are clearly identified and recorded in a PACE strategy document. 
+
+You will discover that PACE strategy documents are a great reference when working on executive summaries. When planning, analyzing, constructing, and executing your end-of-course and capstone projects, the PACE strategy documents provide questions to guide you. The more time you spend considering and answering each question, the more information you’ll have available to you when creating executive summaries.
+
+## Key takeaways
+
+Executive summaries offer an effective way to share information with decision makers, clients, and executives. These documents summarize the most important information within a project or plan of action, and share key insights and results. Typically, an executive summary reports on an identified problem and outlines the solutions used to address the problem.
