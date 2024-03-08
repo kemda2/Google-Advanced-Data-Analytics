@@ -3295,10 +3295,6 @@ The Google Advanced Data Analytics Certificate end-of-course project is designed
 
 # Activity: Create your Course 1 Waze project 
 
-Practice Quiz. • 30 min. • 1 total point available.1 total point
-
-English
-
 To pass this practice quiz, you must receive 100%, or 1 out of 1 point, by completing the following activity. You can learn more about the graded and practice items in the [course overview](https://www.coursera.org/learn/foundations-of-data-science/supplement/AFT8j/course-1-overview).
 
 ![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/93yPu3_SQIK9D_l8zVa-mQ_fcff564b678545b7a24d743008c234f1_image.png?expiry=1710028800000&hmac=w0Hj8LTp25Xy6T4Xgipg_CF28U-GjA4bOwygW01gSpg)
