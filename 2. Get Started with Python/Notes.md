@@ -276,6 +276,38 @@ Notebooks are particularly useful for working with data. Here are some ways that
 5. **Cloud-based services:** Many cloud computing platforms host Jupyter notebooks, which makes it easy to run and share notebooks without setting up a local environment. This is very useful for collaboration.
     
 6. **Libraries and extensions:** There is a rich ecosystem of extensions and plugins that enhance functionality for whatever type of project you’re working on. 
+
+<br> 
+
+*** 
+
+<br>
+
+# How to use Jupyter Notebooks
+
+Jupyter Notebook is an open-source web application for creating and sharing documents containing live code, mathematical formulas, visualizations, and text. This is a great tool to develop and present code in a standardized text block format that is interactive and shareable. You can create code, mathematical formulas, data visualizations, and even freestyle text—all in Jupyter notebooks!
+
+You will be using Jupyter notebooks to write, execute, and present your own code throughout this program. This reading will guide you through using your own notebook. Note, however, that for this certificate program you do not need to download any software. You can complete all activities with the tools provided on the Coursera platform.
+
+# Jupyter Notebook
+
+You can access Jupyter Notebook directly from your browser or download the desktop application onto your device to work with over 100 programming languages, including some you might already know like R and Python. There is [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/), which is the full suite of tools for working with computational notebooks. There is also [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/), which is a more streamlined and simplified tool that nonetheless offers powerful ways to perform interactive computing. Again, for this certificate program, we recommend working within the Jupyter Notebook interface provided by Coursera. Activities that use Jupyter notebooks will be labeled as labs, and you will find relevant instructions for each activity on its landing page.
+
+# Why Jupyter Notebook?
+
+Notebooks are particularly useful for working with data. Here are some ways that Jupyter notebooks excel:
+
+1. **Modular/interactive computing:** You can write and execute individual chunks of code in small, manageable chunks, which are called cells. You can run a cell without necessarily having to run the whole notebook. This is especially helpful for data exploration and experimentation. Cells are also helpful with debugging, because they provide a user-friendly way to make a mistake, notice that you made the mistake, and iterate back to correct your mistake, without having to re-execute a whole script.
+    
+2. **Integration of code and documentation:** Notebooks allow you to combine code, textual explanations, and visualizations like charts, graphs, and tables—all in a single document. 
+    
+3. **Support for multiple languages:** The Advanced Data Analytics program will use Python, but Jupyter notebooks support many other languages, making them powerful and versatile.
+    
+4. **Data exploration and analysis:** The notebook simplifies working with data by offering tools to load, clean, analyze, and examine it in an elegant interface.
+    
+5. **Cloud-based services:** Many cloud computing platforms host Jupyter notebooks, which makes it easy to run and share notebooks without setting up a local environment. This is very useful for collaboration.
+    
+6. **Libraries and extensions:** There is a rich ecosystem of extensions and plugins that enhance functionality for whatever type of project you’re working on. 
     
 
 # How to use Jupyter notebooks
@@ -288,11 +320,11 @@ Notebooks have two working modes: command mode and edit mode. Command mode is us
 
 Command mode is indicated by a blue bar on the left side of the current cell.
 
-![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/O_hXzj7BTtqIvuNwSGRSmg_0ecfa2ee50ff4044ae00c3058f4099f1_ADA_R-248_command-mode.png?expiry=1710115200000&hmac=WvnfOQXtTWC3Jw7qlpfFaMdtKH0DTZQp_WbVds8VL9Q)
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/8c605b1f-b710-43de-a0de-b64050a63779)
 
 Edit mode is indicated by a green bar on the left and also a thin green border around the active cell.
 
-![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/s5Zsn_91T9mzg1jq6lDSoA_6297435531454eaea6be9d71eb8155f1_ADA_R-248_green-bar.png?expiry=1710115200000&hmac=gbAbWAP-WvvfhslMuRDG7JTD2DC6aau98VGesBUfbk0)
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/7bdf2c52-efb3-4c61-aaf6-f431eb69f944)
 
 To enter into edit mode, simply click into a cell to insert your cursor there or use the navigation arrows on your keyboard to select a cell and press Enter. To revert back to command mode, click anywhere outside the cell or press the escape key.
 
@@ -300,11 +332,11 @@ To enter into edit mode, simply click into a cell to insert your cursor there or
 
 Jupyter notebooks allow you to toggle cells between coding mode and Markdown mode. Markdown is a markup language that lets you add formatting elements to plain text. It’s useful because it’s ubiquitous, future-proof, and platform independent. In Jupyter notebooks, Markdown text is used to provide written explanations, analysis, and context to explain the code and its output. In the following example, all of the text above In [41]: was written and formatted using Markdown.
 
-![A screenshot of a Markdown cell followed by a code cell](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FCryqvoKQ96jjB17u5X0CA_a8fe824b7c77425c828f419db94c46f1_ADA_R-248_markdown.png?expiry=1710115200000&hmac=YOCEUiOLDBFZ5JnFdY9XufLsQw4tmqd7kbYcUrv9h6c)
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/00f6815a-fca8-4a6d-b838-038a55f64580)
 
 To toggle between code and Markdown mode, go to the menu at the top of the page and click where it says “Code.” Then, select “Markdown” from the dropdown menu that appears.
 
-![A screenshot of the menu to select Markdown mode.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/oN-ZPCTZTGOroIVr5jFriw_5582e107901249ad88a15ec638a551f1_ADA_R-248_markdown_toggle.png?expiry=1710115200000&hmac=SxJwb7En32Q4vQsYacjC5SUuf3xHy8vl7wZD6S9wdAg)
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/df52ceee-3f35-4214-a032-8f0032e47ea8)
 
 For more information about how to use Markdown, refer to [Markdown guide for basic syntax](https://www.markdownguide.org/basic-syntax/) and the [Markdown guide for extended syntax](https://www.markdownguide.org/extended-syntax/).
 
