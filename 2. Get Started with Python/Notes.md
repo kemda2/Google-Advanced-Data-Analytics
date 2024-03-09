@@ -600,7 +600,7 @@ ship.tractor()
 
 print(ship.tractor_beam)
 
-# Results
+# Result
 
 Tractor beam on.
 on
