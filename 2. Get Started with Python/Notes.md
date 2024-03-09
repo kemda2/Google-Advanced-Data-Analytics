@@ -583,7 +583,7 @@ ship.warp(7)
 
 ship.speed
 
-Reset
+# Result
 
 Warp 7, engage!
 7
