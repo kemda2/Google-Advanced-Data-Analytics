@@ -103,3 +103,99 @@ Providing feedback on videos, readings, and other materials is easy. With the re
 If you want to flag a specific issue with an item, click the flag icon, select a category, and enter an explanation in the text box. This feedback goes back to the course development team and isn’t visible to other learners. All feedback received helps to create even better certificate programs in the future.
 
 For technical help, visit the [Learner Help Center](https://learner.coursera.help/hc/en-us).
+
+<br> 
+
+*** 
+
+<br>
+
+# Course 2 overview
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/19947469-cb87-4f70-9f17-a830f9104b89)
+
+Hello, and welcome to **Get Started with Python**, the second course in the Google Advanced Data Analytics Certificate. You’re on an exciting journey!
+
+Throughout this course, you will develop an understanding of Python syntax, logic, data types, objects, and object-oriented programming. For many professionals, Python is the key to unlocking advanced analytics, machine learning, and the world of data science. By the end of this course, you will better understand how data scientists use programming on the job and how Python will be an important tool throughout your career as a data analytics professional.
+
+## Course descriptions
+
+The Google Advanced Data Analytics Certificate has seven courses. **Get Started with Python** is the second course.
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/f6bae109-7c8a-416c-841f-8ed3db9450e7)
+
+1. [**Foundations of Data Science**](https://www.coursera.org/learn/foundations-of-data-science/home/week/1) — Learn how data professionals operate in the workplace and how different roles in the field of data science contribute to an organization’s vision of the future. Then, explore data science roles, communication skills, and data ethics.
+    
+2. [**Get Started with Python**](https://www.coursera.org/learn/get-started-with-python/home/week/1) — _(current course)_ Discover how the programming language Python can power your data analysis. Learn core Python concepts, such as data types, functions, conditional statements, loops, and data structures.
+    
+3. [**Go Beyond the Numbers: Translate Data into Insights**](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight/home/week/1) — Learn the fundamentals of data cleaning and visualizations and how to reveal the important stories that live within data.
+    
+4. [**The Power of Statistics**](https://www.coursera.org/learn/the-power-of-statistics/home/week/1) — Explore descriptive and inferential statistics, basic probability and probability distributions, sampling, confidence intervals, and hypothesis testing.
+    
+5. [**Regression Analysis: Simplify Complex Data Relationships**](https://www.coursera.org/learn/regression-analysis-simplify-complex-data-relationships/home/week/1) — Learn to model variable relationships, focusing on linear and logistic regression.
+    
+6. [**The Nuts and Bolts of Machine Learning**](https://www.coursera.org/learn/the-nuts-and-bolts-of-machine-learning/home/week/1) — Learn unsupervised machine learning techniques and how to apply them to organizational data. 
+    
+7. [**Google Advanced Data Analytics Capstone**](https://www.coursera.org/learn/google-advanced-data-analytics-capstone/home/week/1) — Complete a hands-on project designed to demonstrate the skills and competencies you acquire in the program. 
+    
+
+## Course 2 content
+
+Each course of this certificate program is broken into modules. You can complete courses at your own pace, but the module breakdowns are designed to help you finish the entire Google Advanced Data Analytics Certificate in about six months.
+
+What’s to come? Here’s a quick overview of the skills you’ll learn in each module of this course.
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/0ddd8965-89b4-422b-a573-8b4e84138f27)
+
+**Module 1: Hello, Python!** 
+
+You’ll begin by exploring the basics of Python programming and why Python is such a powerful tool for data analysis. You’ll learn about Jupyter Notebooks, an interactive environment for coding and data work. You’ll investigate how to use variables and data types to store and organize your data; and, you'll begin practicing some important coding skills.
+
+**Module 2: Functions and conditional statements**
+
+Next, you’ll discover how to call functions to perform useful actions on your data. You’ll also learn how to write conditional statements to tell the computer how to make decisions based on your instructions. And you’ll practice writing clean code that can be easily understood and reused by other data professionals.
+
+**Module 3: Loops and strings**
+
+After that, you’ll learn how to use iterative statements, or loops, to automate repetitive tasks. You’ll also learn how to manipulate strings using slicing, indexing, and formatting. 
+
+**Module 4: Data structures in Python**
+
+Then, you’ll explore fundamental data structures such as lists, tuples, dictionaries, sets, and arrays. Lastly, you’ll learn about two of the most widely used and important Python tools for advanced data analysis: NumPy and pandas. 
+
+**Module 5: Course 2 end-of-course project**
+
+At the end of this course, you will put everything you have learned about Python so far into practice with an end-of-course project. You will select a business problem from a list of options and use the given data to solve the problem. This project is an opportunity to demonstrate your skills and build a professional portfolio you can use to showcase your work to potential employers. 
+
+## What to expect
+
+Each course offers many types of learning opportunities:
+
+- **Videos** led by Google instructors teach new concepts, introduce the use of relevant tools, offer career support, and provide inspirational personal stories. 
+    
+- **Readings** build on the topics discussed in the videos, introduce related concepts, share useful resources, and describe case studies.
+    
+- **Discussion prompts** explore course topics for better understanding and allow you to chat and exchange ideas with other learners in the [**discussion forums**](https://www.coursera.org/learn/get-started-with-python/discussions).
+    
+- **Self-review activities** and **labs** give you hands-on practice in applying the skills you are learning and allow you to assess your own work by comparing it to a completed example.
+    
+- **In-video quizzes** help you check your comprehension as you progress through each video.
+    
+- **Practice quizzes** allow you to check your understanding of key concepts and provide valuable feedback.
+    
+- **Graded quizzes** demonstrate your understanding of the main concepts of a course. You must score 80% or higher on each graded quiz to obtain a certificate, and you can take a graded quiz multiple times to achieve a passing score.
+    
+
+## Tips for success
+
+- It is strongly recommended that you go through the items in each lesson in the order they appear because new information and concepts build on previous knowledge.
+    
+- Participate in all learning opportunities to gain as much knowledge and experience as possible.
+    
+- If something is confusing, don’t hesitate to replay a video, review a reading, or repeat a self-review activity.
+    
+- Use the additional resources that are referenced in this course. They are designed to support your learning. You can find all of these resources in the [**Resources**](https://www.coursera.org/learn/get-started-with-python/resources/GnHn1) tab.
+    
+- When you encounter useful links in this course, bookmark them so you can refer to the information later for study or review.
+    
+- Understand and follow the [Coursera Code of Conduct](https://www.coursera.support/s/article/208280036-Coursera-Code-of-Conduct?) to ensure that the learning community remains a welcoming, friendly, and supportive place for all members.
