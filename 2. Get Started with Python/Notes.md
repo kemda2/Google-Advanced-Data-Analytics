@@ -1,11 +1,5 @@
 # Module 1 Hello, Python!
 
-<br> 
-
-*** 
-
-<br>
-
 # Helpful resources and tips
 
 As a learner, you can choose to complete one or multiple courses in this program. However, to obtain the certificate, you must complete all the courses in the program. This reading describes what is required to obtain a certificate and best practices for you to have a good learning experience on Coursera.  
@@ -886,6 +880,8 @@ Here are a few useful resources to help you get more familiar with Python:
 *** 
 
 <br>
+
+# Module 2 Functions and conditional statements
 
 # Reference guide: Functions
 
