@@ -2080,3 +2080,158 @@ Regex has a large catalogue of special expressions that let you search for subst
 ## Key takeaways
 
 String formatting is the process of inserting specific substrings into designated places within a larger string. Often, the inserted substrings get processed and formatted a certain way. There are multiple ways of using string formatting to help you process strings. These include the format() method, literal string interpolations—or f-strings—and regular expressions, also known as regex. The methods you use will depend on what your data demands and your own personal preferences, but it’s important to be familiar with the most common techniques used by data professionals.
+
+# Glossary terms from module 3
+
+# Terms and definitions from Course 2, Module 3
+
+break: A keyword that lets a user escape a loop without triggering any ELSE statement that follows it in the loop
+
+Concatenate: To link or join together
+
+Escape character: A character that changes the typical behavior of the characters that follow it
+
+For loop: A piece of code that iterates over a sequence of values
+
+format(): A string method that formats and inserts specific substrings into designated places within a larger string
+
+index(): A string method that outputs the index number of a character in a string
+
+Indexing: A way to refer to the individual items within an iterable by their relative position
+
+Iterable: An object that’s looped, or iterated, over
+
+Iteration: The repeated execution of a set of statements, where one iteration is the single execution of a block of code
+
+Loop: A block of code used to carry out iterations 
+
+range(): A Python function that returns a sequence of numbers starting from zero, increments by 1 by default, and stops before the given number 
+
+String slice: A portion of a string that can contain more than one character; also referred to as a substring 
+
+While loop: A loop that instructs the computer to continuously execute the code based on the value of a condition
+
+Terms and definitions from previous modules
+
+A
+
+Algorithm: A set of instructions for solving a problem or accomplishing a task
+
+Argument: Information given to a function in its parentheses
+
+Assignment: The process of storing a value in a variable
+
+Attribute: A value associated with an object or class which is referenced by name using dot notation
+
+B
+
+Boolean: A data type that has only two possible values, usually true or false
+
+Branching: The ability of a program to alter its execution sequence
+
+C
+
+Cells: The modular code input and output fields into which Jupyter Notebooks are partitioned
+
+Class: An object’s data type that bundles data and functionality together
+
+Comparator: An operator that compares two values and produces Boolean values (True/False)
+
+Computer programming: The process of giving instructions to a computer to perform an action or set of actions
+
+D
+
+Data type: An attribute that describes a piece of data based on its values, its programming language, or the operations it can perform
+
+def: A keyword that defines a function at the start of the function block
+
+Docstring: A string at the beginning of a function’s body that summarizes the function’s behavior and explains its arguments and return values
+
+Dot notation: How to access the methods and attributes that belong to an instance of a class
+
+Dynamic typing: Variables that can point to objects of any data type
+
+E
+
+elif: A reserved keyword that executes subsequent conditions when the previous conditions are not true 
+
+else: A reserved keyword that executes when preceding conditions evaluate as False
+
+Explicit conversion: The process of converting a data type of an object to a required data type
+
+Expression: A combination of numbers, symbols, or other variables that produce a result when evaluated
+
+F
+
+Float: A data type that represents numbers that contain decimals
+
+Function: A body of reusable code for performing specific processes or tasks
+
+I
+
+if: A reserved keyword that sets up a condition in Python
+
+Immutable data type: A data type in which the values can never be altered or updated
+
+Implicit conversion: The process Python uses to automatically convert one data type to another without user involvement
+
+Integer: A data type used to represent whole numbers without fractions
+
+J
+
+Jupyter Notebook: An open-source web application for creating and sharing documents containing live code, mathematical formulas, visualizations, and text
+
+K
+
+Keyword: A special word in a programming language that is reserved for a specific purpose and that can only be used for that purpose
+
+L
+
+Logical operator: An operator that connects multiple statements together and performs complex comparisons
+
+M
+
+Markdown: A markup language that lets a user write formatted text in a coding environment or plain-text editor 
+
+Method: A function that belongs to a class and typically performs an action or operation
+
+Modularity: The ability to write code in separate components that work together and that can be reused for other programs
+
+Modulo: An operator that returns the remainder when one number is divided by another
+
+N
+
+Naming conventions: Consistent guidelines that describe the content, creation date, and version of a file in its name
+
+Naming restrictions: Rules built into the syntax of a programming language 
+
+O
+
+Object: An instance of a class; a fundamental building block of Python
+
+Object-oriented programming: A programming system that is based around objects which can contain both data and code that manipulates that data
+
+P
+
+Programming languages: The words and symbols used to write instructions for computers to follow
+
+R
+
+Refactoring: The process of restructuring code while maintaining its original functionality
+
+return: A reserved keyword in Python that makes a function produce new results which are saved for later use
+
+Reusability: The capability to define code once and using it many times without having to rewrite it
+
+S
+
+Self-documenting code: Code written in a way that is readable and makes its purpose clear
+
+String: A sequence of characters and punctuation that contains textual information
+
+Syntax: The structure of code words, symbols, placement, and punctuation
+
+V
+
+Variable: A named container which stores values in a reserved location in the computer’s memory
+
