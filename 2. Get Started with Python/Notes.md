@@ -1194,3 +1194,131 @@ Some important things to note about conditional statements in Python:
 - The conditions must be an expression that evaluates to a Boolean value (True or False).
     
 - Indentation matters! The code associated with each conditional statement must be indented below it. The typical convention for data professionals is to indent four spaces. Indentation mistakes are one of the most common causes of unexpected code behavior.
+
+<br> 
+
+*** 
+
+<br>
+
+# Glossary terms from module 2
+
+# Terms and definitions from Course 2, Module 2
+
+**Algorithm**: A set of instructions for solving a problem or accomplishing a task
+
+**Boolean**: A data type that has only two possible values, usually true or false
+
+**Branching**: The ability of a program to alter its execution sequence
+
+**Comparator**: An operator that compares two values and produces Boolean values (True/False)
+
+**def**: A keyword that defines a function at the start of the function block
+
+**Docstring**: A string at the beginning of a function’s body that summarizes the function’s behavior and explains its arguments and return values
+
+**elif**: A reserved keyword that executes subsequent conditions when the previous conditions are not true 
+
+**else**: A reserved keyword that executes when preceding conditions evaluate as False
+
+**Function**: A body of reusable code for performing specific processes or tasks
+
+**if**: A reserved keyword that sets up a condition in Python
+
+**Logical operator**: An operator that connects multiple statements together and performs complex comparisons
+
+**Modularity**: The ability to write code in separate components that work together and that can be reused for other programs
+
+**Modulo**: An operator that returns the remainder when one number is divided by another
+
+**Refactoring**: The process of restructuring code while maintaining its original functionality
+
+**return**: A reserved keyword in Python that makes a function produce new results which are saved for later use
+
+**Reusability**: The capability to define code once and using it many times without having to rewrite it
+
+**Self-documenting code**: Code written in a way that is readable and makes its purpose clear
+
+# Terms and definitions from the previous module
+
+## A
+
+**Argument**: Information given to a function in its parentheses
+
+**Assignment**: The process of storing a value in a variable
+
+**Attribute**: A value associated with an object or class which is referenced by name using dot notation
+
+## C
+
+**Cells**: The modular code input and output fields into which Jupyter Notebooks are partitioned
+
+**Class**: An object’s data type that bundles data and functionality together
+
+**Computer programming**: The process of giving instructions to a computer to perform an action or set of actions
+
+## D
+
+**Data type**: An attribute that describes a piece of data based on its values, its programming language, or the operations it can perform
+
+**Dot notation**: How to access the methods and attributes that belong to an instance of a class
+
+**Dynamic typing**: Variables that can point to objects of any data type
+
+## E
+
+**Explicit conversion**: The process of converting a data type of an object to a required data type
+
+**Expression**: A combination of numbers, symbols, or other variables that produce a result when evaluated
+
+## F
+
+**Float**: A data type that represents numbers that contain decimals
+
+## I
+
+**Immutable data type**: A data type in which the values can never be altered or updated
+
+**Implicit conversion**: The process Python uses to automatically convert one data type to another without user involvement
+
+**Integer**: A data type used to represent whole numbers without fractions
+
+## J
+
+**Jupyter Notebook**: An open-source web application for creating and sharing documents containing live code, mathematical formulas, visualizations, and text
+
+## K
+
+**Keyword**: A special word in a programming language that is reserved for a specific purpose and that can only be used for that purpose
+
+## M
+
+**Markdown**: A markup language that lets the user write formatted text in a coding environment or plain-text editor 
+
+**Method**: A function that belongs to a class and typically performs an action or operation
+
+## N
+
+**Naming conventions**: Consistent guidelines that describe the content, creation date, and version of a file in its name
+
+**Naming restrictions**: Rules built into the syntax of the language itself that must be followed
+
+## O
+
+**Object**: An instance of a class; a fundamental building block of Python
+
+**Object-oriented programming**: A programming system that is based around objects which can contain both data and code that manipulates that data
+
+## P
+
+**Programming languages**: The words and symbols used to write instructions for computers to follow
+
+## S
+
+**String**: A sequence of characters and punctuation that contains textual information
+
+**Syntax**: The structure of code words, symbols, placement, and punctuation
+
+## V
+
+**Variable**: A named container which stores values in a reserved location in the computer’s memory
