@@ -1322,3 +1322,6 @@ Some important things to note about conditional statements in Python:
 ## V
 
 **Variable**: A named container which stores values in a reserved location in the computer’s memory
+
+# Module 3 Loops and strings
+
