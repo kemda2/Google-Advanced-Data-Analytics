@@ -1106,3 +1106,91 @@ Python is also capable of performing mathematical operations using a set of buil
 |Floor division<br><br>(the number of times the denominator can fully go into the numerator)|//|[IN] 5 // 2<br><br>[OUT] 2|
 
 There are many other mathematical operations that can be performed in Python using functions from special libraries, which you’ll learn about later. Python uses a core set of operators to make comparisons, perform logical operations, and compute arithmetic operations. These operators can be combined in statements to perform an infinite number of tasks and operations.
+
+<br> 
+
+*** 
+
+<br>
+
+# Reference guide: Conditional statements
+
+Conditional statements are an essential part of programming. They allow you to control the flow of information based on certain conditions. In Python, if, elif, and else statements are used to implement conditional statements. Using conditional statements to branch program execution is a core part of coding for most data professionals, so it’s important to understand how they work. This reading is a reference guide to conditional statements.
+
+## Save this course item
+
+You may want to save a copy of this guide for future reference. You can use it as a resource for additional practice or in your future professional projects. To access a downloadable version of this course item, click the following link and select “Use Template.” 
+
+Reference guide: [Conditional statements](https://docs.google.com/document/d/1DnAA9MY1xW-Xw2UrBaAFbHNkkfQxi1ZAYzYazwiCaHo/template/preview?resourcekey=0-nyt9oGjsbubU0Ky8oeff5Q#heading=h.xr97bf74ctnq) 
+
+OR
+
+If you don’t have a Google account, you can download the item directly from the following attachment.
+
+[File](https://d3c33hcgiwev3.cloudfront.net/8AjHHn8BQz2FjQJu6_ZseQ_15fb6f2e66ff4f08b2accb3bf3cabbf1_Reference-guide_-Conditional-statements.docx?Expires=1710288000&Signature=ki8i95EbyneewyKLmetrL6xJXKzzfnkJroXcYsLYU8q6u4YjvLAMDd7QgTsTzqXPCDDC~NEkOGeZqYYYd-XmG~4B012B9i~2XVTOKzkOWnrpKVD2qyoT9f0iP43qgg9xt9GWv6jRvaMRDcztfOxK-K3gfZ0KKPJdsSQlqEMfZ5I_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+## Conditionals syntax
+
+In earlier videos, you learned some built-in Python operators that allow you to compare values, and some logical operators that you can use to combine values. You also learned how to use operators in if-elif-else blocks. 
+
+**Note**: The following code block is not interactive.
+
+The basic syntax of if-elif-else statements in Python is as follows:
+
+```
+if condition1:
+
+   # block of code to execute if the condition evaluates to True
+
+elif condition2:
+
+   # block of code to execute if condition1 evaluates to False
+
+   # and condition2 evaluates to True
+
+else:
+
+   # block of code to execute if BOTH condition1 and condition2
+
+   # evaluate to False
+```
+
+Here, condition1 and condition2 are expressions that evaluate to either True or False. If the condition in the if statement is true, then the block of code that follows is executed. Otherwise, it is skipped.
+
+The elif statement stands for “else if,” and it is used to specify an alternative condition to check if the first condition is false. You can have any number of elif statements in your code. If the preceding condition is false and the elif condition is true, then the block of code that follows the elif statement is executed.
+
+The else statement is used to specify what code to execute if both the if statement and any subsequent elif statements are false. 
+
+Here is an example that uses all three kinds of statements:
+
+```
+x = 8
+
+if x > 5:
+
+   print('x is greater than five')
+
+elif x < 5:
+
+   print('x is less than five')
+
+else:
+
+   print('x is equal to five')
+
+# Result
+
+x is greater than five
+```
+
+Some important things to note about conditional statements in Python:
+
+- The elif and else statements are optional. You can have an if statement by itself.
+    
+- You can have multiple elif statements.
+    
+- You can only have one else statement, and only at the end of your logic block.
+    
+- The conditions must be an expression that evaluates to a Boolean value (True or False).
+    
+- Indentation matters! The code associated with each conditional statement must be indented below it. The typical convention for data professionals is to indent four spaces. Indentation mistakes are one of the most common causes of unexpected code behavior.
