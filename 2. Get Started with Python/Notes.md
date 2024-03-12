@@ -3024,3 +3024,293 @@ Note that multiple operations can be performed in the expression component of th
 ## **Key takeaways**
 
 zip(), enumerate(), and list comprehension make code more efficient by reducing the need to rely on loops to process data and simplifying working with iterables. Understanding these common tools will save you time and make your process much more dynamic when manipulating data.
+
+<br> 
+
+*** 
+
+<br>
+
+# Reference guide: Dictionaries
+
+By now you’ve encountered dictionaries and are discovering their power and utility as a data structure in Python. You’ve also learned that dictionaries provide a way to store and retrieve data using key-value pairs. Data professionals use dictionaries for many tasks, so it’s important to be familiar with how they work. This reading is a reference guide about dictionaries. It’s designed to help you in your Python learning journey. 
+
+## **Save this course item**
+
+You may want to save a copy of this guide for future reference. Use it as a resource for additional practice or in your future professional projects. To access a downloadable version of this course item, click the link below and select “Use Template.” 
+
+[Reference guide: Dictionaries](https://docs.google.com/document/d/1H1MZbLW6wA_my7dxF9WhmScSgxHSBbj1GknNLiLT0Ic/template/preview?pli=1)
+
+OR
+
+If you don’t have a Google account, download the item directly from the attachment below.
+
+[File](https://d3c33hcgiwev3.cloudfront.net/orN4zwlFRIanqzgY1ldPAQ_b31e651899194cbfbdd71260217184f1_Reference-guide_-Dictionaries.docx?Expires=1710374400&Signature=Mw29pzWGQ8JIlx-XCghEWHWEl-rAXw8Jx3~ocg~XP3pRGaSKeIn~o8Sp6V-5jIVQUqwjHP1ugN6IrfzmhHrQcjqh3GDoHg57aqPffULeYauLdEqmAKAxONRf2BhspKc-sGaB8Rt1mr0yjPLshZAlwwr0MN7Bigzd8p3ByrLC06I_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+## **Create a dictionary**
+
+There are two main ways to create dictionaries in Python:
+
+- Braces: {}
+    
+- The dict function: dict()
+    
+
+When instantiating a dictionary using braces, separate each element with a colon. For example, the following code creates a dictionary containing continents as keys and their smallest countries as values:
+
+**Note:** The following code block is not interactive.
+
+```
+smallest_countries = {'Africa': 'Seychelles',
+
+                     'Asia': 'Maldives',
+
+                     'Europe': 'Vatican City',
+
+                     'Oceania': 'Nauru',
+
+                     'North America': 'St. Kitts and Nevis',
+
+                     'South America': 'Suriname'
+
+                     }
+```
+
+To create an empty dictionary, use empty braces or the dict() function:
+
+**Note:** The following code block is not interactive.
+
+```
+empty_dict_1 = {}
+
+empty_dict_2 = dict()
+```
+
+The dict() function uses a different syntax, where keys are entered as the function’s keyword arguments and values are assigned with an equals operator:
+
+**Note:** The following code block is not interactive.
+
+```
+smallest_countries = dict(africa='Seychelles',
+
+                         asia='Maldives',
+
+                         europe='Vatican City',
+
+                         oceania='Nauru',
+
+                         north_america='St. Kitts and Nevis',
+
+                         south_america ='Suriname'
+
+)
+```
+
+Notice that, because the keywords cannot be entered as strings, they cannot contain whitespaces.
+
+Some important notes about keys and values:
+
+- **Dictionary keys:** Can be of any _immutable_ data type, such as strings, numbers, or tuples
+    
+- **Dictionary values:** Can be of any data type—mutable or immutable—including other dictionaries or objects
+    
+- Each key can only correspond to a single value; so, for example, this will throw an error:
+    
+
+```
+invalid_dict = {'numbers': 1, 2, 3}
+
+Reset
+
+Error on line 1:
+    invalid_dict = {'numbers': 1, 2, 3}
+                                   ^
+SyntaxError: invalid syntax
+```
+
+But if you enclose multiple values within another single data structure, you can create a valid dictionary. For example:
+
+```
+valid_dict = {'numbers': [1, 2, 3]}
+
+print(valid_dict)
+
+Reset
+
+{'numbers': [1, 2, 3]}
+```
+
+## **Work with dictionaries**
+
+### Access values
+
+To access a specific value in a dictionary, you must refer to its key using brackets:
+
+```
+my_dict = {'nums': [1, 2, 3],
+
+          'abc': ['a', 'b', 'c']
+
+          }
+
+print(my_dict['nums'])
+
+Reset
+
+[1, 2, 3]
+```
+
+To access all values in a dictionary, use the values() method:
+
+```
+my_dict = {'nums': [1, 2, 3],
+
+          'abc': ['a', 'b', 'c']
+
+          }
+
+print(my_dict.values())
+
+Reset
+
+dict_values([[1, 2, 3], ['a', 'b', 'c']])
+```
+
+### Assign new keys
+
+Dictionaries are mutable data structures in Python. You can add to and modify existing dictionaries. To add a new key to a dictionary, use brackets:
+
+```
+my_dict = {'nums': [1, 2, 3],
+
+          'abc': ['a', 'b', 'c']
+
+          }
+
+# Add a new 'floats' key
+
+my_dict['floats'] = [1.0, 2.0, 3.0]
+
+print(my_dict)
+
+Reset
+
+{'nums': [1, 2, 3], 'abc': ['a', 'b', 'c'], 'floats': [1.0, 2.0, 3.0]}
+```
+
+### Check if a key exists in a dictionary
+
+To check if a key exists in a dictionary, use the in keyword:
+
+```
+smallest_countries = {'Africa': 'Seychelles',
+
+                     'Asia': 'Maldives',
+
+                     'Europe': 'Vatican City',
+
+                     'Oceania': 'Nauru',
+
+                     'North America': 'St. Kitts and Nevis',
+
+                     'South America': 'Suriname'
+
+                     }
+
+print('Africa' in smallest_countries)
+
+print('Asia' not in smallest_countries)
+
+Reset
+
+True
+False
+```
+
+### Delete a key-value pair
+
+To delete a key-value pair from a dictionary, use the del keyword:
+
+```
+my_dict = {'nums': [1, 2, 3],
+
+          'abc': ['a', 'b', 'c']
+
+          }
+
+del my_dict['abc']
+
+print(my_dict)
+
+Reset
+
+{'nums': [1, 2, 3]}
+```
+
+## **Dictionary methods**
+
+Dictionaries are a core Python class. As you’ve learned, classes package data with tools to work with it. Methods are functions that belong to a class. Dictionaries have a number of built-in methods that are very useful. Some of the most commonly used methods include:
+
+### items()
+
+Return a view of the (key, value) pairs of the dictionary:
+
+```
+my_dict = {'nums': [1, 2, 3],
+
+          'abc': ['a', 'b', 'c']
+
+          }
+
+print(my_dict.items())
+
+Reset
+
+dict_items([('nums', [1, 2, 3]), ('abc', ['a', 'b', 'c'])])
+```
+
+### keys() 
+
+Return a view of the dictionary’s keys:
+
+```
+my_dict = {'nums': [1, 2, 3],
+
+          'abc': ['a', 'b', 'c']
+
+          }
+
+print(my_dict.keys())
+
+Reset
+
+dict_keys(['nums', 'abc'])
+```
+
+### values() 
+
+Return a view of the dictionary’s values:
+
+```
+my_dict = {'nums': [1, 2, 3],
+
+          'abc': ['a', 'b', 'c']
+
+          }
+
+print(my_dict.values())
+
+Reset
+
+dict_values([[1, 2, 3], ['a', 'b', 'c']])
+```
+
+Note that the objects returned by these methods are view objects. They provide a dynamic view of the dictionary’s entries, which means that, when the dictionary changes, the view reflects these changes. Dictionary views can be iterated over to yield their respective data. They also support membership tests. 
+
+## **Additional resources**
+
+- For more information about dictionaries, refer to the [Python dictionary documentation](https://docs.python.org/3/tutorial/datastructures.html#dictionaries).
+    
+- For more dictionary methods, refer to the [Python mapping types documentation](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict).
+    
+- For more information about view objects, refer to the [Python dictionary view objects documentation](https://docs.python.org/3/library/stdtypes.html#dict-views).
