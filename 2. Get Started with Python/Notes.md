@@ -5672,3 +5672,5 @@ groupby() will be an essential function in your work as a data professional, as 
 ## W
 
 **While** **loop**: A loop that instructs the computer to continuously execute the code based on the value of a condition
+
+# Module 5 Course 2 end-of-course project
