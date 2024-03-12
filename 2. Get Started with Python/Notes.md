@@ -3761,3 +3761,465 @@ Reset
 ## **Key takeaways**
 
 Libraries, packages, and modules are gateways to Python's countless capabilities. Understanding how to leverage them for your own coding needs will unlock new tools and functions that make your work much more efficient. Check out the Python Package Index at the [PyPI](https://pypi.org/) repository to search for useful libraries. There are packages designed for applications as diverse as chemistry, audio editing, natural language processing, and video games. Whatever it is you’re trying to do, chances are someone has developed a suite of tools to help you!
+
+<br> 
+
+*** 
+
+<br>
+
+
+
+# Reference guide: Arrays
+
+As you’ve learned, NumPy is a powerful library capable of performing advanced numerical computing. One of its main benefits is the ability to work with arrays, as an operation applied to a vector executes much faster than the same operation applied to a list. Performance increases become further apparent when working with large volumes of data. This reading is a reference guide for working with NumPy arrays. 
+
+## **Save this course item**
+
+You may want to save a copy of this guide for future reference. Use it as a resource for additional practice or in your future professional projects. To access a downloadable version of this course item, click the link below and select “Use Template.” 
+
+[Reference guide: Arrays](https://docs.google.com/document/d/1NopsXs4caG8W2oDFt0JIsZvVa2MckyaifO0pCqPVzpA/template/preview?resourcekey=0-Q6qzwooboi4PO_vB2hnyhw)
+
+OR
+
+If you don’t have a Google account, download the item directly from the attachment below.
+
+[File](https://d3c33hcgiwev3.cloudfront.net/9i71ShHNT5WTDlZ8XFdRvg_9ad850e01edc473cbed190c5c88cfdf1_Reference-guide_-Arrays.docx?Expires=1710374400&Signature=jeq00TfcDvDv9rTLiUSawHcaOKI6hlHbFTEyfzQHHEAmiBVKVWMfY-D9G1~RrHNbo2rO89Ya2rGOzLkVLx3M7ZVDGyA-WmHQYKcxiPvftjapaGRpNjzVAx6RUkLQHbsc5d5qgpVqSj9JQScsd85ZG4F~WFblJgAL-5LGszsDQ6s_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+## **Create an array**
+
+As you’ve discovered, to use NumPy, you must first import it. Standard practice is to alias it as np. 
+
+### [**np.array()**](https://numpy.org/doc/stable/reference/generated/numpy.array.html)
+
+This creates an ndarray (n-dimensional array). There is no limit to how many dimensions a NumPy array can have, but arrays with many dimensions can be more difficult to work with.
+
+#### 1-D array:
+
+```
+import numpy as np
+
+array_1d = np.array([1, 2, 3])
+
+array_1d
+
+Reset
+
+[1 2 3]
+```
+
+Notice that a one-dimensional array is similar to a list.
+
+#### 2-D array:
+
+```
+array_2d = np.array([(1, 2, 3), (4, 5, 6)])
+
+array_2d
+
+Reset
+
+[[1 2 3]
+ [4 5 6]]
+```
+
+Notice that a two-dimensional array is similar to a table.
+
+#### 3-D array:
+
+```
+array_3d = np.array([[[1, 2], [3, 4]], [[5, 6], [7, 8]]])
+
+array_3d
+
+Reset
+
+[[[1 2]
+  [3 4]]
+
+ [[5 6]
+  [7 8]]]
+```
+
+Notice that a three-dimensional array is similar to two tables.
+
+### [np.zeros()](https://numpy.org/doc/stable/reference/generated/numpy.zeros.html)
+
+- This creates an array of a designated shape that is pre-filled with zeros:
+    
+
+```
+np.zeros((3, 2))
+
+Reset
+
+[[ 0.  0.]
+ [ 0.  0.]
+ [ 0.  0.]]
+```
+
+### [np.ones()](https://numpy.org/doc/stable/reference/generated/numpy.ones.html)
+
+- This creates an array of a designated shape that is pre-filled with ones:
+    
+
+```
+np.ones((2, 2))
+
+Reset
+
+[[ 1.  1.]
+ [ 1.  1.]]
+```
+
+### [np.full()](https://numpy.org/doc/stable/reference/generated/numpy.full.html)
+
+- And this creates an array of a designated shape that is pre-filled with a specified value:
+    
+
+```
+np.full((5, 3), 8)
+
+Reset
+
+[[ 8.  8.  8.]
+ [ 8.  8.  8.]
+ [ 8.  8.  8.]
+ [ 8.  8.  8.]
+ [ 8.  8.  8.]]
+```
+
+These functions are useful for various situations:
+
+- To initialize an array of a specific size and shape, then fill it with values derived from a calculation
+    
+- To allocate memory for later use
+    
+- To perform matrix operations
+    
+
+## **Array methods**
+
+NumPy arrays have many methods that allow you to manipulate and operate on them. For a full list, refer to the [NumPy array documentation](https://numpy.org/doc/stable/reference/arrays.ndarray.html). Some of the most commonly used methods follow:
+
+### [ndarray.flatten()](https://numpy.org/doc/stable/reference/generated/numpy.ndarray.flatten.html)
+
+- This returns a copy of the array collapsed into one dimension.
+    
+
+```
+array_2d = np.array([(1, 2, 3), (4, 5, 6)])
+
+print(array_2d)
+
+print()
+
+array_2d.flatten()
+
+Reset
+
+[[1 2 3]
+ [4 5 6]]
+
+[1 2 3 4 5 6]
+```
+
+### [ndarray.reshape()](https://numpy.org/doc/stable/reference/generated/numpy.reshape.html#numpy.reshape)
+
+- This gives a new shape to an array without changing its data.
+    
+
+```
+array_2d = np.array([(1, 2, 3), (4, 5, 6)])
+
+print(array_2d)
+
+print()
+
+array_2d.reshape(3, 2)
+
+Reset
+
+[[1 2 3]
+ [4 5 6]]
+
+[[1 2]
+ [3 4]
+ [5 6]]
+```
+
+Adding a value of -1 in the designated new shape makes the process more efficient, as it indicates for NumPy to automatically infer the value based on other given values.
+
+```
+array_2d = np.array([(1, 2, 3), (4, 5, 6)])
+
+print(array_2d)
+
+print()
+
+array_2d.reshape(3, -1)
+
+Reset
+
+[[1 2 3]
+ [4 5 6]]
+
+[[1 2]
+ [3 4]
+ [5 6]]
+```
+
+### [ndarray.tolist()](https://numpy.org/doc/stable/reference/generated/numpy.ndarray.tolist.html)
+
+- This converts an array to a list object. Multidimensional arrays are converted to nested lists. 
+    
+
+```
+array_2d = np.array([(1, 2, 3), (4, 5, 6)])
+
+print(array_2d)
+
+print()
+
+array_2d.tolist()
+
+Reset
+
+[[1 2 3]
+ [4 5 6]]
+
+[[1, 2, 3], [4, 5, 6]]
+```
+
+### Mathematical functions
+
+NumPy arrays also have many methods that are mathematical functions:
+
+- [ndarray.max()](https://numpy.org/doc/stable/reference/generated/numpy.ndarray.max.html): returns the maximum value in the array or along a specified axis.
+    
+- [ndarray.mean()](https://numpy.org/doc/stable/reference/generated/numpy.ndarray.mean.html): returns the mean of all the values in the array or along a specified axis.
+    
+- [ndarray.min()](https://numpy.org/doc/stable/reference/generated/numpy.ndarray.min.html): returns the minimum value in the array or along a specified axis.
+    
+- [ndarray.std()](https://numpy.org/doc/stable/reference/generated/numpy.ndarray.std.html): returns the standard deviation of all the values in the array or along a specified axis.
+    
+
+```
+a = np.array([(1, 2, 3), (4, 5, 6)])
+
+print(a)
+
+print()
+
+print(a.max())
+
+print(a.mean())
+
+print(a.min())
+
+print(a.std())
+
+Reset
+
+[[1 2 3]
+ [4 5 6]]
+
+6
+3.5
+1
+1.70782512766
+```
+
+## **Array attributes**
+
+NumPy arrays have several attributes that enable you to access information about the array. Some of the most commonly used attributes include the following:
+
+- [ndarray.shape](https://numpy.org/doc/stable/reference/generated/numpy.ndarray.shape.html): returns a tuple of the array’s dimensions.
+    
+- [ndarray.dtype](https://numpy.org/doc/stable/reference/generated/numpy.ndarray.dtype.html): returns the data type of the array’s contents.
+    
+- [ndarray.size](https://numpy.org/doc/stable/reference/generated/numpy.ndarray.size.html): returns the total number of elements in the array.
+    
+- [ndarray.T](https://numpy.org/doc/stable/reference/generated/numpy.ndarray.T.html): returns the array transposed (rows become columns, columns become rows).
+    
+
+```
+array_2d = np.array([(1, 2, 3), (4, 5, 6)])
+
+print(array_2d)
+
+print()
+
+print(array_2d.shape)
+
+print(array_2d.dtype)
+
+print(array_2d.size)
+
+print(array_2d.T)
+
+Reset
+
+[[1 2 3]
+ [4 5 6]]
+
+(2, 3)
+int64
+6
+[[1 4]
+ [2 5]
+ [3 6]]
+```
+
+## **Indexing and slicing**
+
+Access individual elements of a NumPy array using indexing and slicing. Indexing in NumPy is similar to indexing in Python lists, except multiple indices can be used to access elements in multidimensional arrays.
+
+```
+a = np.array([(1, 2, 3), (4, 5, 6)])
+
+print(a)
+
+print()
+
+print(a[1])
+
+print(a[0, 1])
+
+print(a[1, 2])
+
+Reset
+
+[[1 2 3]
+ [4 5 6]]
+
+[4 5 6]
+2
+6
+```
+
+Slicing may also be used to access subarrays of a NumPy array:
+
+```
+a = np.array([(1, 2, 3), (4, 5, 6)])
+
+print(a)
+
+print()
+
+a[:, 1:]
+
+Reset
+
+[[1 2 3]
+ [4 5 6]]
+
+[[2 3]
+ [5 6]]
+```
+
+## **Array operations**
+
+NumPy arrays support many operations, including mathematical functions and arithmetic. These include array addition and multiplication, which performs element-wise arithmetic on arrays:
+
+```
+a = np.array([(1, 2, 3), (4, 5, 6)])
+
+b = np.array([[1, 2, 3], [1, 2, 3]])
+
+print('a:')
+
+print(a)
+
+print()
+
+print('b:')
+
+print(b)
+
+print()
+
+print('a + b:')
+
+print(a + b)
+
+print()
+
+print('a * b:')
+
+print(a * b)
+
+Reset
+
+a:
+[[1 2 3]
+ [4 5 6]]
+
+b:
+[[1 2 3]
+ [1 2 3]]
+
+a + b:
+[[2 4 6]
+ [5 7 9]]
+
+a * b:
+[[ 1  4  9]
+ [ 4 10 18]]
+```
+
+In addition, there are nearly 100 other useful [mathematical functions](https://numpy.org/doc/stable/reference/routines.math.html#mathematical-functions) that can be applied to individual or multiple arrays.
+
+## **Mutability**
+
+NumPy arrays are mutable, but with certain limitations. For instance, an existing element of an array can be changed:
+
+```
+a = np.array([(1, 2), (3, 4)])
+
+print(a)
+
+print()
+
+a[1][1] = 100
+
+a
+
+Reset
+
+[[1 2]
+ [3 4]]
+
+[[1   2]
+ [3 100]]
+```
+
+However, the array cannot be lengthened or shortened:
+
+```
+a = np.array([1, 2, 3])
+
+print(a)
+
+print()
+
+a[3] = 100
+
+a
+
+Reset
+
+Error on line 5:
+    a[3] = 100
+IndexError: index 3 is out of bounds for axis 0 with size 3
+```
+
+### How NumPy arrays store data in memory
+
+NumPy arrays work by allocating a contiguous block of memory at the time of instantiation. Most other structures in Python don’t do this; their data is scattered across the system’s memory. This is what makes NumPy arrays so fast; all the data is stored together at a particular address in the system’s memory. 
+
+Interestingly, this is also what prevents an array from being lengthened or shortened: The abutting memory is occupied by other information. There’s no room for more data at that memory address. However, existing elements of the array can be replaced with new elements. 
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/f67bd9fd-3083-4599-a974-a6a9ac819aec)
+
+The only way to lengthen an array is to copy the existing array to a new memory address along with the new data.
