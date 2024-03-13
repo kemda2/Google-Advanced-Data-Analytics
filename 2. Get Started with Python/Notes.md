@@ -6071,3 +6071,69 @@ TikTok's data team needs you to problem-solve and communicate your findings. Goo
 ## **Key takeaways** 
 
 The Google Advanced Data Analytics Certificate end-of-course project is designed for you to practice and apply course skills in a fictional workplace scenario. By completing each course’s end-of-course project, you will have work examples that will enhance your portfolio and showcase your skills for future employers.
+
+<br> 
+
+*** 
+
+<br>
+
+
+# Activity Exemplar: Create your Course 2 TikTok project
+
+Here are completed exemplars along with an explanation of how the exemplars fulfill the expectations for the activity. 
+
+## Completed Exemplars
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/uFr4W54xROuFewIcdwt8TA_33f72f0a2c0043b79f5cfbbcbfaa9df1_image.png?expiry=1710460800000&hmac=soLHn7g3fxVL3rau6dY7ZqMa553fyVdVC8CxUd3FB74)
+
+To review the exemplar for the Course 2 executive summary, click the following link and select _Use Template_. 
+
+- [Course 2 executive summary](https://docs.google.com/presentation/d/1Vwo9pPwFLOFEu69x0qLEv_StHMSofU5E59AQkW0c_f8/template/preview?resourcekey=0-cEC-fVSgozZqLR-IS0hPZg) 
+    
+
+OR
+
+If you do not have a Google account, you can download the exemplar directly from the following attachment.
+
+[File](https://d3c33hcgiwev3.cloudfront.net/9vE9qDsUSlmG0n01Gj-Zcw_93f22862ec844768ac393326c3c52df1_Activity-Exemplar_-TikTok-Course-2-executive-summary.pptx?Expires=1710460800&Signature=JTOAwLPSL47s2IE9p8VsnCmHqbJHvG8YD4Szm72QBs~tWxdr1hftEe-4Fu9eq9bnK2jiRpGg8iogEDcH6K1CYJto6JUaK8rj~278Y7fIJM0yv3EARl6aO14dj6EfSL1g-HXQCfvCNREhUYMD5IW1-xz266izmF-horOGfbZmg4Q_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/wpLPpnEgTF29AWO208uwuw_76ebf4662d1241339aa0f450afc6bff1_image.png?expiry=1710460800000&hmac=RCMQRm0uMoU6mwy0c0Y3YII7diiWxOB-MJUHKKk7CQw)
+
+_**Note**__: The following lab is also the next course item._ 
+
+To access the exemplar for the end-of-course project lab, click the following link and select _Open Lab_. 
+
+- [Course 2 TikTok project lab](https://www.coursera.org/learn/get-started-with-python/ungradedLab/MEiVL/exemplar-course-2-tiktok-project-lab)
+    
+
+## Assessment of Exemplars
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Oh_3m5DtScyz3ZFntG2-8Q_b218db627d23466bb996429086bf43f1_image.png?expiry=1710460800000&hmac=mUB0BolQInDi2_7JaqcUMZ-nZCd6Syvl5K2yrNwSQGM)
+
+### Course 2 TikTok project lab
+
+Compare the exemplar to the Python notebook you completed. Your responses may differ from the exemplar, but that is to be expected. What did you do well? Where can you improve? Use your answers to these questions to guide you as you progress through the end-of-course projects in the certificate.
+
+_**Note:**_ _The exemplar represents one possible way to complete the Python notebook. Yours may differ in certain ways, such as your specific code input or responses to questions. What's important is that you have an overall understanding of the purpose and functionality of a Python notebook for data analysis._
+
+Your Python notebook should: 
+
+- Include the correct code for inspecting and organizing your data
+    
+- Clearly communicate your responses to questions about code input and results
+    
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/YY_2lHhkRTertS4rnCmtQg_39cb8c2d98124dbc8f4c8a1fe03c2ff1_image.png?expiry=1710460800000&hmac=RhbV0ZQf09w7NqET_DKQDDzUuWq4vvzPv67fQKOxpEo)
+
+### Course 2 executive summary 
+
+Compare the exemplar to your completed executive summary. Your responses may differ from the exemplar, but that is to be expected. What did you do well? Where can you improve? Use your answers to these questions to guide you as you progress through the end-of-course projects in the certificate.
+
+_**Note:**_ _The exemplar represents one possible way to complete the executive summary. Yours might differ in certain ways, such as your specific language, answers to questions or the layout you selected from the template offerings. What’s important is that you have an overall understanding of the purpose and organization of executive summaries for data projects._ 
+
+Your executive summary should: 
+
+- Include key information that you want to share with teammates and/or stakeholders
+    
+- Use clear and concise language to effectively communicate your results
