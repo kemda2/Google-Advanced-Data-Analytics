@@ -6238,3 +6238,69 @@ Good luck with this project! Your Waze team members are looking forward to seein
 ## **Key takeaways** 
 
 The Google Advanced Data Analytics Certificate end-of-course project is designed for you to practice and apply course skills in a fictional workplace scenario. By completing each course’s end-of-course project, you will have work examples that will enhance your portfolio and showcase your skills for future employers.
+
+<br> 
+
+*** 
+
+<br>
+
+
+# Activity Exemplars: Create your Course 2 Waze project
+
+Here are completed exemplars along with an explanation of how the exemplars fulfill the expectations for the activity. 
+
+## Completed Exemplars
+
+To review the exemplar for the Course 2 executive summary, click the following link and select _Use Template_.
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FO7yWqJ7Tom4zFsLO2w2Ow_dfe977b1f3f14f9ba6d67d3532cce5f1_image.png?expiry=1710460800000&hmac=0N4NlFxP3kLpxR-GTKlQ7RHJfIfF_7opLzAg7W61IS0)
+
+- [Course 2 Executive summary](https://docs.google.com/presentation/d/1OwW2mHUZ6vjWwOGIUv_Wr7msvTOHDJaepjKh3gjewjY/template/preview) 
+    
+
+OR
+
+If you do not have a Google account, you can download the exemplar directly from the following attachment.
+
+[File](https://d3c33hcgiwev3.cloudfront.net/9cl0TY-fRPa_Fay_e7kkUg_1f52a495178840188a503cccd7cb29f1_Activity-Exemplar_-Waze-Course-2-executive-summary.pptx?Expires=1710460800&Signature=OYsp7lHtkVqMczdOdflVZqgKcQe2in6KuQxZJFL7qPdfKawgQCZQs-xFHA4jaFPQ-de-JhqVKhydiRXXbDHC3nOiTxhSPhDnQ7lbMD1mdJ8mep~2io1J0D0ZfObLLLidX0X9UqNQlQGUIm6BOim4vNK0Ekj4taGtsRMhUqEFLIg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/x5f0AQOQQc2jWofofHjCPw_782d15f8169941c888fd9e6d988ab0f1_image.png?expiry=1710460800000&hmac=0UbJfHoS3pIVCg54fqcpWY2RiQro9QAfBRqiGzMEre4)
+
+_**Note**__: The following lab is also the next course item._ 
+
+To access the exemplar for the end-of-course project lab, click the following link and select _Open Lab_. 
+
+- [Course 2 Waze project lab](https://www.coursera.org/learn/get-started-with-python/ungradedLab/IMizQ/exemplar-course-2-waze-project-lab)
+    
+
+## Assessment of Exemplar
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/xZcxUmU6QPK8ZYVYzDSPyw_2a684412c8ab4f5ca7dd38c7dcb97ff1_image.png?expiry=1710460800000&hmac=LTRUSbZWmLsLKmVTcp3sVF6mmtyr3mUFiaGF_nplSqE)
+
+### Course 2 Waze project lab
+
+Compare the exemplar to the Python notebook you completed. Your responses might differ from the exemplar, but that is to be expected. What did you do well? Where can you improve? Use your answers to these questions to guide you as you progress through the end-of-course projects in the certificate.
+
+_**Note:**_ _The exemplar represents one possible way to complete the Python notebook. Yours might differ in certain ways, such as your specific language, answers to questions or the layout you selected from the template offerings. What's important is that you have an overall understanding of the purpose and functionality of a Python notebook for data analysis._
+
+Your Python notebook should: 
+
+- Include the correct code for inspecting and organizing your data
+    
+- Clearly communicate your responses to questions about code input and results 
+    
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/9K0hiIWYTSew4TYjthto-g_df3bca68077244eea866e3d38d6f89f1_image.png?expiry=1710460800000&hmac=285-wvbiFCY2v4Bv9KUExdKPJCmLquPcZXfVhiliWuU)
+
+### Course 2 executive summary 
+
+Compare the exemplar to your completed executive summary. Your responses might differ from the exemplar, but that is to be expected. What did you do well? Where can you improve? Use your answers to these questions to guide you as you progress through the end-of-course projects in the certificate.
+
+_**Note:**_ _The exemplar represents one possible way to complete the executive summary. Yours might differ in certain ways, such as your specific language and or layout selected from the template offerings. What’s important is that you have an overall understanding of the purpose and organization of executive summaries for data projects._
+
+Your executive summary should: 
+
+- Include key information that you want to share with teammates and/or stakeholders
+    
+- Use clear and concise language to effectively communicate your results
