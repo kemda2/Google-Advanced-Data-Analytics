@@ -6304,3 +6304,22 @@ Your executive summary should: 
 - Include key information that you want to share with teammates and/or stakeholders
     
 - Use clear and concise language to effectively communicate your results
+
+<br> 
+
+*** 
+
+<br>
+
+
+# Course 2 glossary
+
+To use the template for this course item, click the link below and select “Use Template.”
+
+Link to glossary: [Course 2 glossary](https://docs.google.com/document/d/18EAseAzwHSU_ngjtVZLn93IMXNNMoYzo45YPyzOoc_g/template/preview?resourcekey=0-UxG4GBCaaxPCFkrmg--0iA#heading=h.gpf6r5lm49h)
+
+OR
+
+If you don’t have a Google account, you can download the template directly from the attachment below.
+
+[File](https://d3c33hcgiwev3.cloudfront.net/R_S5AS9OSTKhkacNFOgd1g_c70068fdfb43487380fdf0ba05b1c7f1_Course-2-glossary.docx?Expires=1710460800&Signature=GxE8wR2RL06PQyY0CqVz9wqZCHqKSx1IwMy9zVUlODmat~TacpKIuGT1XSDQ49BpswSHGBIMxAm945W3tznLIml4IXGwpy9s~34mppZ0dYSZgAeazxAeTJP2eISNA~bEiM86NL6-12WmJuKxOfngCRXmJ1L9WY~CwztiHoHlpco_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
