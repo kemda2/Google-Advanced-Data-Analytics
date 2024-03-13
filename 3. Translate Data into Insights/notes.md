@@ -470,3 +470,6 @@ Beyond machine learning, EDA is applicable to nearly any important data-based de
 **Structuring**: The process of taking raw data and organizing or transforming it to be more easily visualized, explained, or modeled; one of the six practices of EDA
 
 **Validating**: The process of verifying that the data is consistent and high quality; one of the six practices of EDA
+
+# Module 2 Explore raw data
+
