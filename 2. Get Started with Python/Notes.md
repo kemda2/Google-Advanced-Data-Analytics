@@ -5919,3 +5919,69 @@ Good luck with this project! Automatidata looks forward to seeing how you commun
 # **Key takeaways** 
 
 The Google Advanced Data Analytics Certificate end-of-course project is designed for you to practice and apply course skills in a fictional workplace scenario. By completing each course’s end-of-course project, you will have work examples that will enhance your portfolio and showcase your skills for future employers.
+
+<br> 
+
+*** 
+
+<br>
+
+
+# Activity Exemplar: Create your Course 2 Automatidata project
+
+Here are completed exemplars along with an explanation of how the exemplars fulfill the expectations for the activity. 
+
+## Completed Exemplars
+
+To review the exemplar for the Course 2 executive summary, click the following link and select Use Template.
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/aXzDQtT5TO-ye0ohsxIqZw_37a97efc28d843adba9196594d4a83f1_image.png?expiry=1710460800000&hmac=Z0Ep56IjJQpPZQPv2OqaopT375aQ9hqu4v88cQCtnww)
+
+- [Course 2 executive summary](https://docs.google.com/presentation/d/1crEmW5ucXEth7GK1lfVUd_BeNhAXXgmEtvc-hB52Ih4/template/preview) 
+    
+
+OR
+
+If you do not have a Google account, you can download the exemplar directly from the following attachment.
+
+[File](https://d3c33hcgiwev3.cloudfront.net/d_bJBofWT8O9oM4YBen24A_d50aea2befad4918ac4d9da8df0308f1_Activity-Exemplar_-Course-2-Automatidata-executive-summary.pptx?Expires=1710460800&Signature=CjZ6amTlr4OlzZv5uTwqBjfP5k0PSbpIeY10tnUwTOZAgYx~a5r5twv0uWpaNJ6tVkYIBB88ilHn5Blug4W-W6QIonjG6Bi1MXSj1ZWxS4wBySLBRyseUfCLdoFOqO9SaULIh~3loae8J5hT36AuKL876228tzhcO2HQyEtOsgc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/OYFyxVPIQb6xRjtzFxjl-g_c97e12939d964c84bf5fb7369a06a9f1_image.png?expiry=1710460800000&hmac=Ifd8lc1tyw9o0ht2bFQmriNHbxVi_TmK_URwS0yObGQ)
+
+_**Note**__: The following lab is also the next course item._ 
+
+To access the exemplar for the end-of-course project lab, click the following link and select _Open Lab_. 
+
+- [Course 2 Automatidata project lab](https://www.coursera.org/learn/get-started-with-python/ungradedLab/fvJDh/exemplar-course-2-automatidata-project-lab)
+    
+
+## Assessment of Exemplar
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/ZmMVBxgoSVe1JOiV6eErGA_8e34df852b134f6ba0420ef9852966f1_image.png?expiry=1710460800000&hmac=nsgLnR-iiSVfXHQpAUooP-SxoCDL2WJDewae0iHaIuA)
+
+### Course 2 Automatidata project lab 
+
+Compare the exemplar to the Python notebook you completed. Your responses might differ from the exemplar, but that is to be expected. What did you do well? Where can you improve? Use your answers to these questions to guide you as you progress through the end-of-course projects in the certificate.
+
+_**Note:**_ _The exemplar represents one possible way to complete the Python notebook. Yours might differ in certain ways, such as your specific code input or responses to questions. What's important is that you have an overall understanding of the purpose and functionality of a Python notebook for data analysis._
+
+Your Python notebook should: 
+
+- Include the correct code for inspecting and organizing your data
+    
+- Clearly communicate your responses to questions about code input and results
+    
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/9BXrrASUSxqjP4eALevC8A_f44857c731a947808c2f746e2f483bf1_image.png?expiry=1710460800000&hmac=7reKx5BLGHDBk3ayzcaZUEZGCUFEMi-aLZKvW5gKMzY)
+
+### Course 2 executive summary 
+
+Compare the exemplar to your completed executive summary. Your responses might differ from the exemplar, but that is to be expected. What did you do well? Where can you improve? Use your answers to these questions to guide you as you progress through the end-of-course projects in the certificate. 
+
+_**Note:**_ _The exemplar represents one possible way to complete the executive summary. Yours might differ in certain ways, such as your specific language, answers to questions or the layout you selected from the template offerings. What’s important is that you have an overall understanding of the purpose and organization of executive summaries for data projects._ 
+
+Your executive summary should: 
+
+- Include key information that you want to share with teammates and/or stakeholders
+    
+- Use clear and concise language to effectively communicate your results
