@@ -107,3 +107,106 @@ Providing feedback on videos, readings, and other materials is easy. With the re
 If you want to flag a specific issue with an item, click the flag icon, select a category, and enter an explanation in the text box. This feedback goes back to the course development team and isn’t visible to other learners. All feedback received helps to create even better certificate programs in the future. 
 
 For technical help, visit the [Learner Help Center](https://learner.coursera.help/hc/en-us).
+
+
+<br> 
+
+*** 
+
+<br>
+
+
+
+# Course 3 overview
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/17c8284f-93b9-4211-acfa-6b04f9ca331a)
+
+Hello, and welcome to **Go Beyond the Numbers: Translate Data into Insights**, the third course in the Google Advanced Data Analytics Certificate. You’re on an exciting journey!
+
+In this course, you will learn how to find and tell stories using data. You will explore how the elements of storytelling can enrich our understanding of data and how storytelling can help stakeholders interpret our data. You will learn how data professionals explore data, find intriguing trends and insights, and then share those stories with others in a data-informed presentation. 
+
+Then, you will learn basic principles and best practices of data exploration using Python. You will gain hands-on experience with data visualizations in Tableau, a specialized data visualization tool and explore how to create interesting visualizations, presentations, and talking points about your data. Finally, you will learn to prepare and deliver great presentations. All these skills will be foundational in your growing knowledge of data exploration and support your journey to become a data-informed storyteller.
+
+## Course descriptions
+
+The Google Advanced Data Analytics Certificate has seven courses. **Go Beyond the Numbers: Translate Data into Insights** is the third course. 
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/fa26b5ae-7609-4016-a0ab-33c63f81faaa)
+
+1. [**Foundations of Data Science**](https://www.coursera.org/learn/foundations-of-data-science/home/week/1) — Learn how data professionals operate in the workplace and how different roles in the field of data science contribute to an organization’s vision of the future. Then, explore data science roles, communication skills, and data ethics.
+    
+2. [**Get Started with Python**](https://www.coursera.org/learn/get-started-with-python/home/week/1) — Discover how the programming language Python can power your data analysis. Learn core Python concepts, such as data types, functions, conditional statements, loops, and data structures.
+    
+3. [**Go Beyond the Numbers: Translate Data into Insights**](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight/home/week/1) — _(current course)_ Learn the fundamentals of data cleaning and visualizations and how to reveal the important stories that live within data.
+    
+4. [**The Power of Statistics**](https://www.coursera.org/learn/the-power-of-statistics/home/week/1) — Explore descriptive and inferential statistics, basic probability and probability distributions, sampling, confidence intervals, and hypothesis testing.
+    
+5. [**Regression Analysis: Simplify Complex Data Relationships**](https://www.coursera.org/learn/regression-analysis-simplify-complex-data-relationships/home/week/1) — Learn to model variable relationships, focusing on linear and logistic regression.
+    
+6. [**The Nuts and Bolts of Machine Learning**](https://www.coursera.org/learn/the-nuts-and-bolts-of-machine-learning/home/week/1) — Learn unsupervised machine learning techniques and how to apply them to organizational data. 
+    
+7. [**Google Advanced Data Analytics Capstone**](https://www.coursera.org/learn/google-advanced-data-analytics-capstone/home/week/1) — Complete a hands-on project designed to demonstrate the skills and competencies you acquire in the program. 
+    
+
+## Course 3 content
+
+Each course of this certificate program is broken into modules. You can complete courses at your own pace, but the module breakdowns are designed to help you finish the entire Google Advanced Data Analytics Certificate in about six months.
+
+What’s to come? Here’s a quick overview of the skills you’ll learn in each module of this course.
+
+![image](https://github.com/kemda2/Google-Advanced-Data-Analytics/assets/19648132/62a3f741-10a8-4cb5-8c30-388bd02a631a)
+
+**Module 1: Find and share stories using data**
+
+There are trends and stories hidden among the numbers and tables inside almost every dataset. In this part of the program, you will learn to tell stories using data and how to discover those stories by performing exploratory data analysis (EDA) and data cleaning. You’ll learn about the benefits and basic methods of data cleaning. You will explore different ways to visualize data and choose among them to suit the type of data you’re representing and your audience. 
+
+**Module 2: Explore raw data**
+
+Cleaning a never-before-seen dataset can be daunting, but there is no need to fear. For this part of the program, you will be making sense of raw data by using powerful functions and libraries in Python. You will learn to perform EDA practices of discovering and structuring using Python, and you’ll discover that finding stories using EDA and the PACE workflow is all about gaining a thorough understanding of your data. 
+
+**Module 3: Clean your data**
+
+At this point in the course, you’ll know what is in your dataset, but what’s next? In this part of the program, you will learn three more EDA practices: cleaning, joining, and validating. You will learn the importance of performing these practices on your data, and you’ll practice using Python notebooks to clean, validate, and join data. 
+
+**Module 4: Data visualizations and presentations**
+
+Once you have learned how to find the story and clean the data, it’s time to share it with others. For this part of the program, you will learn to create and present your data stories in an ethical, accessible, and professional way. You will learn to use Tableau, one of the best visualization platforms for data scientists, at an advanced level.
+
+**Module 5: Course 3 end-of-course project**
+
+To conclude this part of the program, you will have the chance to demonstrate what you’ve learned in an end-of-course project. You will select a scenario outlining a business challenge, and you will be tasked with using the data provided to solve the problem. The concepts and skills you will learn in this part of the course will be critical to your success as a data analyst in the future.  
+
+## What to expect
+
+Each course offers many types of learning opportunities:
+
+- **Videos** led by Google instructors teach new concepts, introduce the use of relevant tools, offer career support, and provide inspirational personal stories. 
+    
+- **Readings** build on the topics discussed in the videos, introduce related concepts, share useful resources, and describe case studies.
+    
+- **Discussion prompts** explore course topics for better understanding and allow you to chat and exchange ideas with other learners in the [**discussion forums**](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight/discussions).
+    
+- **Self-review activities** and **labs** give you hands-on practice in applying the skills you are learning and allow you to assess your own work by comparing it to a completed example.
+    
+- **Interactive plug-ins** encourage you to practice specific tasks and help you integrate knowledge you have gained in the course.
+    
+- **In-video quizzes** help you check your comprehension as you progress through each video.
+    
+- **Practice quizzes** allow you to check your understanding of key concepts and provide valuable feedback.
+    
+- **Graded quizzes** demonstrate your understanding of the main concepts of a course. You must score 80% or higher on each graded quiz to obtain a certificate, and you can take a graded quiz multiple times to achieve a passing score.
+    
+
+## Tips for success
+
+- It is strongly recommended that you go through the items in each lesson in the order they appear because new information and concepts build on previous knowledge.
+    
+- Participate in all learning opportunities to gain as much knowledge and experience as possible.
+    
+- If something is confusing, don’t hesitate to replay a video, review a reading, or repeat a self-review activity.
+    
+- Use the additional resources that are referenced in this course. They are designed to support your learning. You can find all of these resources in the [**Resources**](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight/resources/iTmL7) tab.
+    
+- When you encounter useful links in this course, bookmark them so you can refer to the information later for study or review.
+    
+- Understand and follow the [Coursera Code of Conduct](https://www.coursera.support/s/article/208280036-Coursera-Code-of-Conduct?) to ensure that the learning community remains a welcoming, friendly, and supportive place for all members.
